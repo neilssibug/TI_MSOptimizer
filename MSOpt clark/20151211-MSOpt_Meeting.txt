@@ -1,0 +1,23 @@
+20151211 - MSOpt meeting
+- change device is not consider as changeover
+- 
+
+2016
+1Q-70%
+2Q-100%
+
+CHANGEOVER TYPE
+LB-4hrs
+PACKAGE CONVERSION-8hrs
+TRANSFER-16hrs
+
+Changes
+92 decisions on first 24hrs
+27 changes
+ - no wip
+ - keydevice
+ - test hierarchy
+14 valid changes (51%)
+13 questionable changes
+65 keep setup
+2  questionable why keep

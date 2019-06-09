@@ -1,0 +1,5 @@
+"tester_config","num_lots","expected_output_2_days","expected_avg_per_day","cumulative_output_per_day"
+NULL,"113","1312273","656136.5","656136.5"
+"APU10","31","343920","171960","828096.5"
+"APU12","705","7151340","3575670","4403766.5"
+"ETM","124","1236704","618352","5022118.5"

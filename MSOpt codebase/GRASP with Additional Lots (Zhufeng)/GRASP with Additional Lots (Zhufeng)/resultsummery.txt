@@ -1,0 +1,56 @@
+Phase I statistics:
+solution pool:
+obj=9.698e+10,weighted sum lots(no initial lots)=2.50819e+08
+total_shortage=423572,total_weighted_shortage=1.00704e+11
+
+first_pass_solution weighted sum of lots = 2.50819e+08
+Based on steps not passes,single-pass solution,
+objective value = 1.48806e+11
+total shortage for all key device and steps = 612056
+total weighted for all key device and steps = 1.49078e+11
+total shortage of finished device = 464919
+total weighted shortage of finished device = 1.13262e+11
+total shortage of all key package = 0
+total weighted shortage of all key pin package = 0
+total shortage of all key pin package = 0
+total weighted shortage of all key pin package = 0
+
+best multi_pass_solution obj = 1.18494e+11
+
+weighted sum lots per pass:
+pass no:1,weighted sum lots:2.80408e+08
+pass no:2,weighted sum lots:5.80791e+07
+pass no:3,weighted sum lots:9.9047e+06
+
+total production per pass:
+pass no:1,production:1434137
+pass no:2,production:96021
+pass no:3,production:1308
+
+total key device production per pass:
+pass no:1,key device production:1271691
+pass no:2,key device production:93591
+pass no:3,key device production:1308
+
+total weighted sum lots = 3.48392e+08
+total key device shortage: 491715
+total weighted shortage: 1.18863e+11
+total finished key device shortage: 381158
+total finished weighted key device shortage: 9.21095e+10
+total shortage of all key package = 0
+total weighted shortage of all key pin package = 0
+total shortage of all key pin package = 0
+total weighted shortage of all key pin package = 0
+
+time_span=34.8212
+
+running time (real time) for multi-pass grasp = 8
+
+num_machine used = 36
+max maching time = 34.8212
+min maching time = 5.34583
+average maching time = 24.4332
+The end time is Wed Feb  5 13:48:16 2014
+
+The code has been running for 12 seconds (real time)totally.
+Total cpu time = 7.74 seconds

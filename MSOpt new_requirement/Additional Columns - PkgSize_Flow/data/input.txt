@@ -1,0 +1,30 @@
+3005  //Maximum Number of Tooling Instances
+1000    //Maximum Number of Tooling Family
+1000    //Maximum Number of Machine instances
+1000000 //Maximum Number of Lots
+1000    //Maximum Number of Devices
+100     //Maximum Number of Certifications (Temperature)
+20000    //Maximum Number of Tooling Configuration (Routes)
+1       //0 = run the random case generator; 1 = generate case from input files
+0.0007   //Load and Unload time for each lot. REPLACE BASED IN YUMIN CONFIG VALUE
+1       //run build_model (solve the whole prob by CPLEX)
+1       //LP_IP: 1 = run LP; 2 = run IP
+1       //new_old_model: 1 new model; 2 old model
+0       //multi-pass or single-pass: 1 = multipass; 0 = single-pass
+1       // 1 = Keep setup before changeover if machine has an initial setup at time zero; 0 = allow initial setup to be changed
+1      //Whether reset or changeover: 1 resetup; o.w no resetup or changeover
+10    //Number of iterations for the multi-pass heuristic after GRASP
+0     //Whether allowing the last lot assigned to a machine to run beyond the time horizon: 1 = yes; 0 = no
+100     //seed
+2	//Max_Iter
+2000    //Number of lots when case is randomly generated
+200     //Num_Machine
+10      //Num of MG
+100     //Num of Tooling
+30      //Num_Tooling_Family
+100     //Num_Device
+40      //Num_Keydevice
+40      //Num_Package
+3       //Num_Temperature
+1       //SIM_option 1:use SIM; 0: ow
+0       //Phase II option: 1 = run Phase II; 0 = do not run Phase II

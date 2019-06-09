@@ -1,0 +1,226 @@
+# __START__
+# ==============================================================================
+#    You can modify this example makefile to fit for your own program.
+#    Usually, you only need to change the four CHANGEME entries below.
+# ==============================================================================
+
+# CHANGEME: add extra definitions here
+USER_DEFINES = -DCOIN_USE_CLP
+#USER_DEFINES = -DCOIN_USE_CPX
+# Possibilities: 
+#                -DHEUR_SOL :      generate heuristic solutions
+#                -DCUSTOM_BRANCH : branch on first non integer variable
+#                -DUSER_DATA :     define data associated with each node
+#
+
+# CHANGEME: This should be the name of your executable
+EXE = ./msopt_at
+
+SRC = ./src
+
+# CHANGEME: Here is the name of all object files corresponding to the source
+#           code that you wrote in order to define the problem statement
+OBJS = \
+	$(SRC)/LP/AT_lp.o \
+	$(SRC)/LP/AT_lp_branch.o \
+	$(SRC)/LP/AT_lp_param.o \
+	$(SRC)/TM/AT_tm.o \
+	$(SRC)/TM/AT_tm_param.o \
+	$(SRC)/Member/AT_GRASP.o \
+	$(SRC)/Member/AT_init.o \
+	$(SRC)/main.o
+
+# Add access to Cplex if available (see bac.pdf for installation)
+# actual solver library the code should be linked against. In the third
+# variable any additional libraries should be listed along with any other
+# necessary flags, like -L or -rpath, etc. Note that no -L flag needs to be
+# added for libraries from COIN.
+USER_OSI_LIBS = -lOsiClp $(LIB_OsiCpx)
+USER_SOLVER_LIBS = -lClp $(LIB_CPLEX)
+USER_EXTRA_LIBS = 
+
+# CHANGEME: Additional include directories for compilation. Note that no
+# include directory needs to be listed here for headers from COIN.
+USER_INCDIRS = $(SRC)/include
+
+# path to BCP
+BCPHOME = ./BCP32
+
+# path to documentation
+DOCS = ./docs
+HTMLDOCS = $(DOCS)/html
+
+# paths to outputs
+DEBUGPATH = ./Debug
+OUTPUTPATH = ./Output
+
+# ==============================================================================
+#  Usually, you don't have to change anything below.  Note that if you
+#  change certain compiler options, you might have to recompile the
+#  BCP package.
+# ==============================================================================
+
+# standard shell
+SHELL = /bin/sh
+
+# C++ Compiler command
+CXX = g++
+
+# C++ Compiler options
+CXXFLAGS = $(CYGFLAG) -g3 -gdwarf-2 -m32 -O3 -fexceptions -DNDEBUG -DIL_STD $(USER_DEFINES)
+
+# additional C++ Compiler options for linking
+CXXLINKFLAGS =  
+
+# Directory with COIN header files
+COININCDIR = $(BCPHOME)/include/coin
+
+# Directory with COIN libraries
+COINLIBDIR = $(BCPHOME)/lib
+
+# Libraries necessary to link with Clp
+LIBS =  -L$(COINLIBDIR) \
+	-lBcp \
+	-lCgl \
+	$(USER_OSI_LIBS) \
+	-lOsi $(USER_SOLVER_LIBS) \
+	-lCoinUtils \
+	$(USER_EXTRA_LIBS) \
+	$(shell cat $ $(BCPHOME)/share/doc/coin/Cgl/cgl_addlibs.txt) \
+	$(shell cat $ $(BCPHOME)/share/doc/coin/Osi/osi_addlibs.txt) \
+	$(shell cat $ $(BCPHOME)/share/doc/coin/Clp/clp_addlibs.txt) \
+	$(shell cat $ $(BCPHOME)/share/doc/coin/CoinUtils/coinutils_addlibs.txt)
+
+# The following is necessary under cygwin, if native compilers are used
+CYGPATH_W = echo
+
+# Necessary Include directories (we use the CYGPATH_W variables to allow
+# compilation with Windows compilers)
+INCL = $(shell for i in $(USER_INCDIRS) $(COININCDIR); do $(CYGPATH_W) $$i | sed -e 's/^/-I/'; done)
+
+
+
+# ==============================================================================
+# rules
+
+.SUFFIXES: .cpp .o
+
+.PHONY: all
+all: start_build $(EXE)
+	@echo
+	@echo "INFO:  Build completed successfully."
+	@echo "INFO:  ========================================================================="
+	@echo
+	
+.PHONY: start_build
+start_build:
+	@echo
+	@echo "INFO:  ========================================================================="
+	@echo "INFO:  Starting build..."
+
+.cpp.o:
+	@echo 
+	@echo "INFO:  Compiling \"$<\" to \"$@\"..."
+	@echo -n "  "
+	$(CXX) $(CXXFLAGS) $(INCL) -c -o $@ $<
+
+$(EXE): $(OBJS)
+	@echo 
+	@echo "INFO:  ============"
+	@echo "INFO:  Linking \"$@\"..."
+	@echo -n "  "
+	$(CXX) $(CXXLINKFLAGS) $(OBJS) -o $@ $(LIBS)
+	@echo
+	@echo "INFO:  Executable \"$@\" is now available."
+
+.PHONY: format
+format.cpp:
+	@echo
+	@echo "INFO:  ========================================================================="
+	@echo "INFO:  Formatting the source files..."
+	@echo -n "  "
+	astyle --options=$(SRC)/astylerc $<
+	@echo
+
+.PHONY: html
+html:
+	@echo 
+	@echo "INFO:  ========================================================================="
+	@echo "INFO:  Generating documentation..."
+	@echo -n "  "
+	rm -rf $(HTMLDOCS)/*
+	@echo -n "  "
+	doxygen $(DOCS)/documentation.doxy
+	@echo
+
+.PHONY: clean
+clean:
+	@echo 
+	@echo "INFO:  ========================================================================="
+	@echo "INFO:  Cleaning project..."
+	@echo -n "  "
+	rm -rf $(EXE)
+	@echo -n "  "
+	rm -rf $(OBJS)
+	@echo -n "  "
+	rm -rf $(DEBUGPATH)/*
+	@echo -n "  "
+	rm -rf $(OUTPUTPATH)/*
+	@echo -n "  "
+	rm -rf $(HTMLDOCS)/*
+	@echo
+	
+.PHONY: mostlyclean
+mostlyclean:
+	@echo 
+	@echo "INFO:  ========================================================================="
+	@echo "INFO:  (Mostly) cleaning project..."
+	@echo -n "  "
+	rm -rf $(EXE)
+	@echo -n "  "
+	rm -rf $(OBJS)
+	@echo
+	
+
+
+
+# ==============================================================================
+# dependencies
+
+$(SRC)/LP/AT_lp.o:		$(SRC)/LP/AT_lp.cpp
+$(SRC)/LP/AT_lp.o:		$(SRC)/include/AT_lp.hpp
+$(SRC)/LP/AT_lp.o:		$(SRC)/include/AT_user_data.hpp
+$(SRC)/LP/AT_lp.o:		$(SRC)/include/AT_var.hpp
+
+$(SRC)/LP/AT_lp_branch.o:	$(SRC)/LP/AT_lp_branch.cpp
+$(SRC)/LP/AT_lp_branch.o:	$(SRC)/include/AT_lp.hpp
+$(SRC)/LP/AT_lp_branch.o:	$(SRC)/include/AT_user_data.hpp
+$(SRC)/LP/AT_lp_branch.o:	$(SRC)/include/AT_var.hpp
+
+$(SRC)/LP/AT_lp_param.o:	$(SRC)/LP/AT_lp_param.cpp
+$(SRC)/LP/AT_lp_param.o:	$(SRC)/include/AT_lp.hpp
+
+$(SRC)/TM/AT_tm.o:		$(SRC)/TM/AT_tm.cpp
+$(SRC)/TM/AT_tm.o:		$(SRC)/include/AT_tm.hpp
+$(SRC)/TM/AT_tm.o:		$(SRC)/include/AT_user_data.hpp 
+$(SRC)/TM/AT_tm.o:		$(SRC)/include/AT_var.hpp
+
+$(SRC)/TM/AT_tm_param.o:	$(SRC)/TM/AT_tm_param.cpp
+$(SRC)/TM/AT_tm_param.o:	$(SRC)/include/AT_tm_param.hpp
+
+$(SRC)/Member/AT_GRASP.o:	$(SRC)/Member/AT_GRASP.cpp
+$(SRC)/Member/AT_GRASP.o:	$(SRC)/include/AT_GRASP.hpp
+$(SRC)/Member/AT_GRASP.o:	$(SRC)/include/combination.hpp
+
+$(SRC)/Member/AT_init.o:	$(SRC)/Member/AT_init.cpp
+$(SRC)/Member/AT_init.o:	$(SRC)/include/AT_GRASP.hpp
+$(SRC)/Member/AT_init.o:	$(SRC)/include/AT_init.hpp
+$(SRC)/Member/AT_init.o:	$(SRC)/include/AT_lp.hpp
+$(SRC)/Member/AT_init.o:	$(SRC)/include/AT_tm.hpp
+
+$(SRC)/Member/main.o:		$(SRC)/main.cpp
+$(SRC)/Member/main.o:		$(SRC)/include/main.hpp
+
+# ==============================================================================
+
+# __END__

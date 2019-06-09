@@ -1,0 +1,185 @@
+################################################################################################################
+# The file recorded all inconsistent input data.
+# It pointed out where the incomplete data is, guessed what information may be wrong and what reaction was taken.
+##################################################################################################################
+
+The tooling family 6528917b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6544140b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6580443c exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6580500a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6582798a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6587054a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The 347th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 348th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 349th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 350th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 351th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 352th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 353th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 354th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 355th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 431th row in route.csv: Machine_Family is empty. The row is skipped.
+The 432th row in route.csv: Machine_Family is empty. The row is skipped.
+The 521th row in route.csv: Machine_Family is empty. The row is skipped.
+The 522th row in route.csv: Machine_Family is empty. The row is skipped.
+The 523th row in route.csv: Machine_Family is empty. The row is skipped.
+The 524th row in route.csv: Machine_Family is empty. The row is skipped.
+The 525th row in route.csv: Machine_Family is empty. The row is skipped.
+The 781th row in route.csv: Machine_Family is empty. The row is skipped.
+The 782th row in route.csv: Machine_Family is empty. The row is skipped.
+The 783th row in route.csv: Machine_Family is empty. The row is skipped.
+The 784th row in route.csv: Machine_Family is empty. The row is skipped.
+The 803th row in route.csv: Machine_Family is empty. The row is skipped.
+The 804th row in route.csv: Machine_Family is empty. The row is skipped.
+The 805th row in route.csv: Machine_Family is empty. The row is skipped.
+The 895th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 896th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 897th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 898th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1359th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1360th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1361th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1362th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1363th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1857th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2090th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 2091th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 2092th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 2093th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 2094th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 2th row in initialsetup.csv: Machine_Family is empty. The row is skipped.
+The 10th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 11th row in initialsetup.csv: Machine_Instance is not found in machines.csv. The row is skipped.
+The 12th row in initialsetup.csv: Machine_Instance is not found in machines.csv. The row is skipped.
+The 13th row in initialsetup.csv: Machine_Instance is not found in machines.csv. The row is skipped.
+The 16th row in initialsetup.csv: Machine_Instance is not found in machines.csv. The row is skipped.
+The 17th row in initialsetup.csv: Machine_Instance is not found in machines.csv. The row is skipped.
+The 20th row in initialsetup.csv: Machine_Instance is not found in machines.csv. The row is skipped.
+The 27th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 45th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 46th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 57th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 62th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 71th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 72th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 73th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 78th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 79th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 81th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 82th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 83th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 84th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 85th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 86th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 87th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 88th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 89th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 90th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 91th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The machine instance CLFTEA15 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA20 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA11 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA2 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA24 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA26 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA3 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA37 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA4 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA45 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA5 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA51 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA56 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA57 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA6 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA7 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA70 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA76 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA80 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA9 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA90 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA91 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA92 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA95 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA97 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA98 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA99 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The 12th row in wip.csv: This is an initial lot but the machine_instance CLFTEA7 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 15th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA36with tooling setups (6479550B and certification 1) in initialsetup.csv cannot process deviceS65177RHAR1-G2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA36is taken as a machine with initial setup but without initial lot.
+The 60th row in wip.csv: This is an initial lot but the machine_instance CLFTEA92 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 294th row in wip.csv: This is an initial lot but the machine_instance CLFTEA45 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 360th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA69with tooling setups (6541533C and certification 1) in initialsetup.csv cannot process deviceBQ24196RGER-RY with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA69is taken as a machine with initial setup but without initial lot.
+The 362th row in wip.csv: This is an initial lot but the machine_instance CLFTEA11 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 425th row in wip.csv: This is an initial lot but the machine_instance CLFTEA9 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 622th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA46with tooling setups (6547137A and certification 1) in initialsetup.csv cannot process deviceTPS2553DRVR-L with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA46is taken as a machine with initial setup but without initial lot.
+The 627th row in wip.csv: This is an initial lot but the machine_instance CLFTEA37 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 659th row in wip.csv: This is an initial lot but the machine_instance CLFTEA15 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 700th row in wip.csv: This is an initial lot but the machine_instance CLFTEA26 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 716th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 717th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA71with tooling setups (6487925B and certification 1) in initialsetup.csv cannot process devicePS54821RHLR2-R with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA71is taken as a machine with initial setup but without initial lot.
+The 729th row in wip.csv: This is an initial lot but the machine_instance CLFTEA56 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 800th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 870th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA77with tooling setups (6512615D and certification 1) in initialsetup.csv cannot process device1212006RGRR-G2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA77is taken as a machine with initial setup but without initial lot.
+The 887th row in wip.csv: This is an initial lot but the machine_instance CLFTEA5 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 924th row in wip.csv: This is an initial lot but the machine_instance CLFTEA2 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1302th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA78with tooling setups (6560309A and certification 1) in initialsetup.csv cannot process deviceS65283RGER-G2Y with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA78is taken as a machine with initial setup but without initial lot.
+The 1350th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA40with tooling setups (6513992A and certification 1) in initialsetup.csv cannot process deviceV62150ARGTR-LY with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA40is taken as a machine with initial setup but without initial lot.
+The 1366th row in wip.csv: This is an initial lot but the machine_instance CLFTEA51 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1716th row in wip.csv: This is an initial lot but the machine_instance CLFTEA57 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1717th row in wip.csv: This is an initial lot but the machine_instance CLFTEA70 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 10th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device 1108026RHDR1-R to the set of devices DEV. It is still used.
+The 2th row in machine_hours.csv: machine instance CLFTEA1 is not included in machines.csv. The row is skipped.
+The 3th row in machine_hours.csv: machine instance CLFTEA10 is not included in machines.csv. The row is skipped.
+The 9th row in machine_hours.csv: machine instance CLFTEA16 is not included in machines.csv. The row is skipped.
+The 15th row in machine_hours.csv: machine instance CLFTEA21 is not included in machines.csv. The row is skipped.
+The 22th row in machine_hours.csv: machine instance CLFTEA28 is not included in machines.csv. The row is skipped.
+The 52th row in machine_hours.csv: machine instance CLFTEA55 is not included in machines.csv. The row is skipped.
+The 79th row in machine_hours.csv: machine instance CLFTEA8 is not included in machines.csv. The row is skipped.
+The 82th row in machine_hours.csv: machine instance CLFTEA82 is not included in machines.csv. The row is skipped.
+The 94th row in machine_hours.csv: machine instance CLFTEA93 is not included in machines.csv. The row is skipped.
+The 95th row in machine_hours.csv: machine instance CLFTEA94 is not included in machines.csv. The row is skipped.
+In initialsetup.csv machine CLFTEA40has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA46's initial setup: the combination of tooling family(6547137A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA46.So no lot skipped.In initialsetup.csv, MachineCLFTEA87's initial setup: the combination of tooling family(6494476A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA87.So no lot skipped.In initialsetup.csv machine CLFTEA53has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA17has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA13's initial setup: the combination of tooling family(6511094C)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA13.So no lot skipped.In initialsetup.csv machine CLFTEA71has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA58's initial setup: the combination of tooling family(6492420C)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA58.So no lot skipped.In initialsetup.csv machine CLFTEA12has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA23's initial setup: the combination of tooling family(6514494A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA23.So no lot skipped.In initialsetup.csv machine CLFTEA25has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA29has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA31's initial setup: the combination of tooling family(6545253A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA31.So no lot skipped.In initialsetup.csv, MachineCLFTEA34's initial setup: the combination of tooling family(6498316A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA34.So no lot skipped.In initialsetup.csv, MachineCLFTEA36's initial setup: the combination of tooling family(6479550B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA36.So no lot skipped.In initialsetup.csv, MachineCLFTEA39's initial setup: the combination of tooling family(6528917B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA39.So no lot skipped.In initialsetup.csv, MachineCLFTEA44's initial setup: the combination of tooling family(6522503A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA44.So no lot skipped.In initialsetup.csv, MachineCLFTEA59's initial setup: the combination of tooling family(6579192B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA59.So no lot skipped.In initialsetup.csv machine CLFTEA60has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA63has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA64's initial setup: the combination of tooling family(6479550B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA64.So no lot skipped.In initialsetup.csv, MachineCLFTEA65's initial setup: the combination of tooling family(6569306A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA65.So no lot skipped.In initialsetup.csv, MachineCLFTEA66's initial setup: the combination of tooling family(6544140B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA66.So no lot skipped.In initialsetup.csv, MachineCLFTEA67's initial setup: the combination of tooling family(6516394A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA67.So no lot skipped.In initialsetup.csv, MachineCLFTEA69's initial setup: the combination of tooling family(6541533C)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA69.So no lot skipped.In initialsetup.csv machine CLFTEA72has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA73has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA74's initial setup: the combination of tooling family(6520958B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA74.So no lot skipped.In initialsetup.csv, MachineCLFTEA75's initial setup: the combination of tooling family(6544140B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA75.So no lot skipped.In initialsetup.csv machine CLFTEA77has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA78's initial setup: the combination of tooling family(6560309A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA78.So no lot skipped.In initialsetup.csv machine CLFTEA79has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA81's initial setup: the combination of tooling family(6505771B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA81.So no lot skipped.In initialsetup.csv machine CLFTEA88has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA62's initial setup: the combination of tooling family(6570729C)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA62.So no lot skipped.In initialsetup.csv, MachineCLFTEA18's initial setup: the combination of tooling family(6517701E)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA18.So no lot skipped.In initialsetup.csv machine CLFTEA35has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA85's initial setup: the combination of tooling family(6568858D)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA85.So no lot skipped.

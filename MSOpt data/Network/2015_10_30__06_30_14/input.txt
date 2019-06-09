@@ -1,0 +1,25 @@
+2000    //Maximum Number of Tooling Instances
+1000    //Maximum Number of Tooling Family
+1000    //Maximum Number of Machine instances
+100000  //Maximum Number of Lots
+1000    //Maximum Number of Devices
+100     //Maximum Number of Certifications (Temperature)
+20000    //Maximum Number of Tooling Configuration (Routes)
+1       //0: run the random case generator; 1 generate case from input files
+0.166   //Load and Unload time for each lot
+1       //run build_model (solve the whole prob by CPLEX)
+1       //LP_IP: 1 run LP; 2 run IP
+1       //new_old_model: 1 new model; 2 old model
+100     //seed
+500    //Max_Iter
+2000    //Num of Lots if the case is randomly generated
+80      //Num_Machine
+10      //Num of MG
+100     //Num of Tooling
+30      //Num_Tooling_Family
+100     //Num_Device
+40      //Num_Keydevice
+40      //Num_Package
+3       //Num_Temperature
+1       //SIM_option 1:use SIM; 0: ow
+0       //Phase II option: 1 run Phase II; ow do not run Phase II

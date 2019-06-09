@@ -1,0 +1,472 @@
+################################################################################################################
+# The file recorded all inconsistent input data.
+# It pointed out where the incomplete data is, guessed what information may be wrong and what reaction was taken.
+##################################################################################################################
+
+The tooling family 6528917b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6544140b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6580443c exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6580500a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6582798a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The 8th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 11th row in route.csv: Tooling_Family is empty. The row is still used.
+The 12th row in route.csv: Tooling_Family is empty. The row is still used.
+The 13th row in route.csv: Tooling_Family is empty. The row is still used.
+The 14th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 23th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 29th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 33th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 37th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 41th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 45th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 49th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 53th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 54th row in route.csv: Tooling_Family is empty. The row is still used.
+The 55th row in route.csv: Tooling_Family is empty. The row is still used.
+The 56th row in route.csv: Tooling_Family is empty. The row is still used.
+The 64th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 71th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 81th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 85th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 89th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 97th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 100th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 103th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 107th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 111th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 115th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 119th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 123th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 127th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 135th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 142th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 151th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 155th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 159th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 163th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 170th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 179th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 188th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 197th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 200th row in route.csv: Tooling_Family is empty. The row is still used.
+The 201th row in route.csv: Tooling_Family is empty. The row is still used.
+The 202th row in route.csv: Tooling_Family is empty. The row is still used.
+The 203th row in route.csv: Tooling_Family is empty. The row is still used.
+The 204th row in route.csv: Tooling_Family is empty. The row is still used.
+The 205th row in route.csv: Tooling_Family is empty. The row is still used.
+The 206th row in route.csv: Tooling_Family is empty. The row is still used.
+The 207th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 211th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 215th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 219th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 223th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 227th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 231th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 235th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 239th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 246th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 252th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 253th row in route.csv: Machine_Family is empty. The row is skipped.
+The 257th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 261th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 269th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 276th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 285th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 294th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 300th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 304th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 308th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 312th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 320th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 328th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 336th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 343th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 352th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 357th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 358th row in route.csv: Machine_Family is empty. The row is skipped.
+The 359th row in route.csv: Machine_Family is empty. The row is skipped.
+The 367th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 371th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 375th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 385th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 397th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 406th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 409th row in route.csv: Tooling_Family is empty. The row is still used.
+The 410th row in route.csv: Tooling_Family is empty. The row is still used.
+The 411th row in route.csv: Tooling_Family is empty. The row is still used.
+The 412th row in route.csv: Tooling_Family is empty. The row is still used.
+The 413th row in route.csv: Tooling_Family is empty. The row is still used.
+The 414th row in route.csv: Tooling_Family is empty. The row is still used.
+The 415th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 416th row in route.csv: Tooling_Family is empty. The row is still used.
+The 417th row in route.csv: Tooling_Family is empty. The row is still used.
+The 425th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 434th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 444th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 455th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 456th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 459th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 460th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 465th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 466th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 471th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 472th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 476th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 480th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 484th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 488th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 492th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 496th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 500th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 504th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 508th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 516th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 521th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 528th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 537th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 543th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 547th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 554th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 563th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 570th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 579th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 584th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 585th row in route.csv: Machine_Family is empty. The row is skipped.
+The 589th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 596th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 599th row in route.csv: Machine_Family is empty. The row is skipped.
+The 603th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 604th row in route.csv: Machine_Family is empty. The row is skipped.
+The 608th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 612th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 616th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 620th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 624th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 628th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 632th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 636th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 644th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 651th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 657th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 664th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 668th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 671th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 678th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 687th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 696th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 708th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 713th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 718th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 722th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 726th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 730th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 734th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 738th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 742th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 746th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 750th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 754th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 758th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 762th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 769th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 775th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 783th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 790th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 799th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 805th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 809th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 813th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 821th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 825th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 833th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 840th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 849th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 858th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 864th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 871th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 877th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 881th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 885th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 889th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 893th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 897th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 904th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 913th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 922th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 931th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 940th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 950th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 958th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 962th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 970th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 974th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 981th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 990th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 996th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1000th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1011th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1015th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1019th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1022th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1029th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1033th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1037th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1041th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1045th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1049th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1053th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1060th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1064th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1068th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1072th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1076th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1083th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1089th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1096th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1108th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1120th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1129th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1138th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1147th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1153th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1160th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1169th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1181th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1187th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1191th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1199th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1203th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1207th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1211th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1215th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1219th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1223th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1227th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1231th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1238th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1247th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1256th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1261th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1265th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1269th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1276th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1285th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1295th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1302th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1311th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1320th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1326th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1330th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1334th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1338th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1345th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1354th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1361th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1370th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1379th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1389th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1397th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1404th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1410th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1417th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1427th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1431th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1441th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 1450th row in route.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The machine instance CLFTEA35 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA50 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA63 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA85 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA90 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA72 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA88 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA14 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA7 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA59 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA37 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA78 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA44 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA62 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA39 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA30 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA31 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA69 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA80 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA33 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA18 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA92 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA19 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA56 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA54 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA42 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA17 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA53 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA32 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA34 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA52 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA68 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA25 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA38 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA75 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA66 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA76 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA71 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA64 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA36 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA12 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA41 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA26 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA79 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA15 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA29 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA89 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA22 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA49 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA13 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA43 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA58 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA47 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA48 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA84 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA45 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA51 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA27 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA65 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA9 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA77 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA20 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA74 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA87 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA60 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA83 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA61 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA86 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA67 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA70 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA73 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA23 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA81 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA3 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA46 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA10 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA57 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA24 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA6 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA11 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA91 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA97 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA99 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The 2th row in wip.csv: the hh:mm:ss in SNAPSHOT_TIME is wrong or incomplete. This may couse some errors.Stop running the code.
+The 27th row in wip.csv: This is an initial lot but the machine_instance CLFTEA20 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 49th row in wip.csv: This is an initial lot but the machine_instance CLFTEA39 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 51th row in wip.csv: This is an initial lot but the machine_instance CLFTEA85 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 53th row in wip.csv: This is an initial lot but the machine_instance CLFTEA7 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 57th row in wip.csv: This is an initial lot but the machine_instance CLFTEA70 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 63th row in wip.csv: This is an initial lot but the machine_instance CLFTEA92 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 135th row in wip.csv: This is an initial lot but the machine_instance CLFTEA79 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 136th row in wip.csv: This is an initial lot but the machine_instance CLFTEA61 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 137th row in wip.csv: This is an initial lot but the machine_instance CLFTEA23 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 181th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 183th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 184th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 185th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 186th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 188th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 189th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 190th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 191th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 192th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 193th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 194th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 195th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 196th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 197th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 241th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 242th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 243th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 257th row in wip.csv: This is an initial lot but the machine_instance CLFTEA42 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 261th row in wip.csv: This is an initial lot but the machine_instance CLFTEA59 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 271th row in wip.csv: This is an initial lot but the machine_instance CLFTEA29 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 272th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 302th row in wip.csv: This is an initial lot but the machine_instance CLFTEA56 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 311th row in wip.csv: This is an initial lot but the machine_instance CLFTEA83 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 317th row in wip.csv: This is an initial lot but the machine_instance CLFTEA52 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 338th row in wip.csv: This is an initial lot but the machine_instance CLFTEA76 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 355th row in wip.csv: This is an initial lot but the machine_instance CLFTEA46 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 370th row in wip.csv: This is an initial lot but the machine_instance CLFTEA17 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 373th row in wip.csv: This is an initial lot but the machine_instance CLFTEA22 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 381th row in wip.csv: This is an initial lot but the machine_instance CLFTEA58 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 385th row in wip.csv: This is an initial lot but the machine_instance CLFTEA30 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 387th row in wip.csv: This is an initial lot but the machine_instance CLFTEA87 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 401th row in wip.csv: This is an initial lot but the machine_instance CLFTEA67 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 404th row in wip.csv: This is an initial lot but the machine_instance CLFTEA13 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 427th row in wip.csv: This is an initial lot but the machine_instance CLFTEA84 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 431th row in wip.csv: This is an initial lot but the machine_instance CLFTEA34 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 432th row in wip.csv: This is an initial lot but the machine_instance CLFTEA75 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 440th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 455th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 469th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 471th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 474th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 478th row in wip.csv: This is an initial lot but the machine_instance CLFTEA77 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 493th row in wip.csv: This is an initial lot but the machine_instance CLFTEA18 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 504th row in wip.csv: This is an initial lot but the machine_instance CLFTEA74 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 519th row in wip.csv: This is an initial lot but the machine_instance CLFTEA33 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 525th row in wip.csv: This is an initial lot but the machine_instance CLFTEA35 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 530th row in wip.csv: This is an initial lot but the machine_instance CLFTEA45 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 531th row in wip.csv: This is an initial lot but the machine_instance CLFTEA38 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 532th row in wip.csv: This is an initial lot but the machine_instance CLFTEA25 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 577th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 586th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 587th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 588th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 589th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 590th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 591th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 593th row in wip.csv: This is an initial lot but the machine_instance CLFTEA63 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 611th row in wip.csv: This is an initial lot but the machine_instance CLFTEA37 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 625th row in wip.csv: This is an initial lot but the machine_instance CLFTEA10 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 633th row in wip.csv: This is an initial lot but the machine_instance CLFTEA80 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 635th row in wip.csv: This is an initial lot but the machine_instance CLFTEA14 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 642th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 643th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 644th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 645th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 683th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 684th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 685th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 686th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 687th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 688th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 689th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 690th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 691th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 692th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 693th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 694th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 695th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 696th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 699th row in wip.csv: This is an initial lot but the machine_instance CLFTEA69 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 702th row in wip.csv: This is an initial lot but the machine_instance CLFTEA44 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 717th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 718th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 719th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 720th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 721th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 722th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 735th row in wip.csv: This is an initial lot but the machine_instance CLFTEA11 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 2th row in machine_hours.csv: machine instance CLFTEA1 is not included in machines.csv. The row is skipped.
+The 9th row in machine_hours.csv: machine instance CLFTEA16 is not included in machines.csv. The row is skipped.
+The 13th row in machine_hours.csv: machine instance CLFTEA2 is not included in machines.csv. The row is skipped.
+The 15th row in machine_hours.csv: machine instance CLFTEA21 is not included in machines.csv. The row is skipped.
+The 22th row in machine_hours.csv: machine instance CLFTEA28 is not included in machines.csv. The row is skipped.
+The 35th row in machine_hours.csv: machine instance CLFTEA4 is not included in machines.csv. The row is skipped.
+The 36th row in machine_hours.csv: machine instance CLFTEA40 is not included in machines.csv. The row is skipped.
+The 46th row in machine_hours.csv: machine instance CLFTEA5 is not included in machines.csv. The row is skipped.
+The 52th row in machine_hours.csv: machine instance CLFTEA55 is not included in machines.csv. The row is skipped.
+The 79th row in machine_hours.csv: machine instance CLFTEA8 is not included in machines.csv. The row is skipped.
+The 82th row in machine_hours.csv: machine instance CLFTEA82 is not included in machines.csv. The row is skipped.
+The 94th row in machine_hours.csv: machine instance CLFTEA93 is not included in machines.csv. The row is skipped.
+The 95th row in machine_hours.csv: machine instance CLFTEA94 is not included in machines.csv. The row is skipped.
+The 96th row in machine_hours.csv: machine instance CLFTEA95 is not included in machines.csv. The row is skipped.
+The 98th row in machine_hours.csv: machine instance CLFTEA98 is not included in machines.csv. The row is skipped.

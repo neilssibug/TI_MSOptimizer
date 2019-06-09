@@ -1,0 +1,1683 @@
+################################################################################################################
+# The file recorded all inconsistent input data.
+# It pointed out where the incomplete data is, guessed what information may be wrong and what reaction was taken.
+##################################################################################################################
+
+The 2th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 3th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 4th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 5th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 6th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 7th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 8th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 9th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 10th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 11th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 12th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 13th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 14th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 15th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 16th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 17th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 18th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 19th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 20th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 21th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 22th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 23th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 24th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 25th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 26th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 27th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 28th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 29th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 30th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 31th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 32th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 33th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 34th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 35th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 36th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 37th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 38th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 39th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 40th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 41th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 42th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 43th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 44th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 45th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 46th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 47th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 48th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 49th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 50th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 51th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 52th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 53th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 54th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 55th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 56th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 57th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 58th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 59th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 60th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 61th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 62th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 63th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 64th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 65th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 66th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 67th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 68th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 69th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 70th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 71th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 72th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 73th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 74th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 75th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 76th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 77th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 78th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 79th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 80th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 81th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 82th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 83th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 84th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 85th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 86th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 87th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 88th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 89th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 90th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 91th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 92th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 93th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 94th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 95th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 96th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 97th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 98th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 99th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 100th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 101th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 102th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 103th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 104th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 105th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 106th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 107th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 108th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 109th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 110th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 111th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 112th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 113th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 114th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 115th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 116th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 117th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 118th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 119th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 120th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 121th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 122th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 123th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 124th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 125th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 126th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 127th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 128th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 129th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 130th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 131th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 132th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 133th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 134th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 135th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 136th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 137th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 138th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 139th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 140th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 141th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 142th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 143th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 144th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 145th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 146th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 147th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 148th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 149th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 150th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 151th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 152th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 153th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 154th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 155th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 156th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 157th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 158th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 159th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 160th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 161th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 162th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 163th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 164th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 165th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 166th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 167th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 168th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 169th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 170th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 171th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 172th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 173th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 174th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 175th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 176th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 177th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 178th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 179th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 180th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 181th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 182th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 183th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 184th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 185th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 186th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 187th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 188th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 189th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 190th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 191th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 192th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 193th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 194th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 195th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 196th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 197th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 198th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 199th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 200th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 201th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 202th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 203th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 204th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 205th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 206th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 207th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 208th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 209th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 210th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 211th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 212th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 213th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 214th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 215th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 216th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 217th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 218th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 219th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 220th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 221th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 222th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 223th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 224th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 225th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 226th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 227th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 228th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 229th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 230th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 231th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 232th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 233th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 234th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 235th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 236th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 237th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 238th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 239th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 240th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 241th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 242th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 243th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 244th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 245th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 246th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 247th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 248th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 249th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 250th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 251th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 252th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 253th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 254th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 255th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 256th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 257th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 258th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 259th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 260th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 261th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 262th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 263th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 264th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 265th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 266th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 267th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 268th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 269th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 270th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 271th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 272th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 273th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 274th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 275th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 276th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 277th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 278th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 279th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 280th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 281th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 282th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 283th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 284th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 285th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 286th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 287th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 288th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 289th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 290th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 291th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 292th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 293th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 294th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 295th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 296th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 297th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 298th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 299th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 300th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 301th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 302th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 303th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 304th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 305th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 306th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 307th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 308th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 309th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 310th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 311th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 312th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 313th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 314th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 315th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 316th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 317th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 318th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 319th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 320th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 321th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 322th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 323th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 324th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 325th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 326th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 327th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 328th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 329th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 330th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 331th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 332th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 333th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 334th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 335th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 336th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 337th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 338th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 339th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 340th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 341th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 342th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 343th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 344th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 345th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 346th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 347th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 348th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 349th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 350th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 351th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 352th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 353th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 354th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 355th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 356th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 357th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 358th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 359th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 360th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 361th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 362th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 363th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 364th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 365th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 366th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 367th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 368th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 369th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 370th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 371th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 372th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 373th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 374th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 375th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 376th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 377th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 378th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 379th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 380th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 381th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 382th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 383th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 384th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 385th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 386th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 387th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 388th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 389th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 390th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 391th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 392th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 393th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 394th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 395th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 396th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 397th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 398th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 399th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 400th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 401th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 402th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 403th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 404th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 405th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 406th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 407th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 408th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 409th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 410th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 411th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 412th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 413th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 414th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 415th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 416th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 417th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 418th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 419th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 420th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 421th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 422th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 423th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 424th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 425th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 426th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 427th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 428th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 429th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 430th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 431th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 432th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 433th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 434th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 435th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 436th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 437th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 438th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 439th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 440th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 441th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 442th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 443th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 444th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 445th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 446th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 447th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 448th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 449th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 450th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 451th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 452th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 453th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 454th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 455th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 456th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 457th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 458th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 459th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 460th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 461th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 462th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 463th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 464th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 465th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 466th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 467th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 468th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 469th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 470th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 471th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 472th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 473th row in toolingfamily_setuptime.csv: Setup_time is non-positive.It is still used.
+The 262th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 263th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 264th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 265th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 266th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 267th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 268th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 269th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 340th row in route.csv: Machine_Family is empty. The row is skipped.
+The 425th row in route.csv: Machine_Family is empty. The row is skipped.
+The 426th row in route.csv: Machine_Family is empty. The row is skipped.
+The 427th row in route.csv: Machine_Family is empty. The row is skipped.
+The 461th row in route.csv: Tooling_Family is empty. The row is still used.
+The 462th row in route.csv: Tooling_Family is empty. The row is still used.
+The 463th row in route.csv: Tooling_Family is empty. The row is still used.
+The 464th row in route.csv: Tooling_Family is empty. The row is still used.
+The 465th row in route.csv: Tooling_Family is empty. The row is still used.
+The 466th row in route.csv: Tooling_Family is empty. The row is still used.
+The 467th row in route.csv: Tooling_Family is empty. The row is still used.
+The 468th row in route.csv: Tooling_Family is empty. The row is still used.
+The 469th row in route.csv: Tooling_Family is empty. The row is still used.
+The 595th row in route.csv: Machine_Family is empty. The row is skipped.
+The 612th row in route.csv: Machine_Family is empty. The row is skipped.
+The 613th row in route.csv: Machine_Family is empty. The row is skipped.
+The 722th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 723th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 724th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1113th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1114th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1115th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1116th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1644th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1645th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1646th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1647th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 4th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 5th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 6th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 7th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 8th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 9th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 13th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 14th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 15th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 17th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 20th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 21th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 26th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 28th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 29th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 30th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 31th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 32th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 33th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 36th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 37th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 38th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 40th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 44th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 57th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 58th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 71th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 73th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 75th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 76th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 77th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 78th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 79th row in initialsetup.csv: The combination of machine family, tooling family and certification is not found in route.csv. The row is skipped.
+The 80th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 81th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 82th row in initialsetup.csv: Machine_Family is not found in machines.csv. The row is skipped.
+The 83th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 84th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 85th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 86th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 87th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 88th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 89th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 90th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 91th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 92th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 93th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 94th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 95th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 96th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The 97th row in initialsetup.csv: Initial_Tool_Family is empty while the initial certification is positive . The row is skipped.
+The machine instance CLFTEA1 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA10 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA12 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA13 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA14 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA16 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA19 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA2 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA20 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA21 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA22 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA27 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA28 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA29 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA3 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA31 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA39 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA4 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA40 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA43 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA44 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA47 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA49 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA5 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA51 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA52 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA54 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA55 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA56 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA58 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA6 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA60 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA61 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA68 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA7 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA70 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA72 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA77 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA79 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA8 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA81 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA82 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA85 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA9 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA90 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA91 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA92 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA93 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA94 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA95 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA97 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA98 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA99 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The 2th row in wip.csv: the hh:mm:ss in SNAPSHOOT_TIME is wrong or incomplete. This may couse some errors.Stop running the code.
+The 36th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA73with tooling setups (6471369E and certification 1) in initialsetup.csv cannot process deviceCSD87381P1-NS2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA73is taken as a machine with initial setup but without initial lot.
+The 52th row in wip.csv: This is an initial lot but the machine_instance CLFTEA5 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 111th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA50with tooling setups (6543758C and certification 1) in initialsetup.csv cannot process deviceS54335ADRCR-G2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA50is taken as a machine with initial setup but without initial lot.
+The 138th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA15with tooling setups (6568521A and certification 1) in initialsetup.csv cannot process deviceMC7812SRGCR-CK with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA15is taken as a machine with initial setup but without initial lot.
+The 156th row in wip.csv: This is an initial lot but the machine_instance CLFTEA85 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 164th row in wip.csv: This is an initial lot but the machine_instance CLFTEA79 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 208th row in wip.csv: This is an initial lot but the machine_instance CLFTEA92 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 221th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA83with tooling setups (6524040A and certification 1) in initialsetup.csv cannot process device5633BRTER-KDG2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA83is taken as a machine with initial setup but without initial lot.
+The 282th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA57with tooling setups (6569306A and certification 1) in initialsetup.csv cannot process device3315RGFR-G2S2Y with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA57is taken as a machine with initial setup but without initial lot.
+The 294th row in wip.csv: This is an initial lot but the machine_instance CLFTEA52 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 342th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 343th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 344th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 345th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 346th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 347th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 369th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA46with tooling setups (6546767B and certification 1) in initialsetup.csv cannot process deviceTPS2553DRVR-L with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA46is taken as a machine with initial setup but without initial lot.
+The 372th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA32with tooling setups (6554905A and certification 1) in initialsetup.csv cannot process deviceS62740DSSR1-LK with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA32is taken as a machine with initial setup but without initial lot.
+The 379th row in wip.csv: This is an initial lot but the machine_instance CLFTEA39 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 380th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA65with tooling setups (6543758C and certification 1) in initialsetup.csv cannot process device65633BKRTER-G2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA65is taken as a machine with initial setup but without initial lot.
+The 381th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA53with tooling setups (6570166B and certification 1) in initialsetup.csv cannot process deviceS62736RGYR-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA53is taken as a machine with initial setup but without initial lot.
+The 384th row in wip.csv: This is an initial lot but the machine_instance CLFTEA61 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 387th row in wip.csv: This is an initial lot but the machine_instance CLFTEA47 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 397th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA18with tooling setups (6545253A and certification 1) in initialsetup.csv cannot process device1640ARSLR1-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA18is taken as a machine with initial setup but without initial lot.
+The 398th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA64with tooling setups (6541231B and certification 1) in initialsetup.csv cannot process device65633BKRTER-G2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA64is taken as a machine with initial setup but without initial lot.
+The 399th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA33with tooling setups (6525585A and certification 1) in initialsetup.csv cannot process deviceSN2850RUYR-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA33is taken as a machine with initial setup but without initial lot.
+The 403th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA35with tooling setups (6515677C and certification 2) in initialsetup.csv cannot process device65633BKRTER-G2 with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA35is taken as a machine with initial setup but without initial lot.
+The 405th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA30with tooling setups (6569306A and certification 1) in initialsetup.csv cannot process deviceS62134ARGTR1-L with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA30is taken as a machine with initial setup but without initial lot.
+The 449th row in wip.csv: This is an initial lot but the machine_instance CLFTEA56 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 472th row in wip.csv: This is an initial lot but the machine_instance CLFTEA9 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 528th row in wip.csv: This is an initial lot but the machine_instance CLFTEA16 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 544th row in wip.csv: This is an initial lot but the machine_instance CLFTEA10 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 635th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA69with tooling setups (6545253A and certification 1) in initialsetup.csv cannot process deviceS56121ADQPR1-C with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA69is taken as a machine with initial setup but without initial lot.
+The 674th row in wip.csv: This is an initial lot but the machine_instance CLFTEA13 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 675th row in wip.csv: This is an initial lot but the machine_instance CLFTEA27 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 688th row in wip.csv: This is an initial lot but the machine_instance CLFTEA14 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 707th row in wip.csv: This is an initial lot but the machine_instance CLFTEA8 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 755th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA26with tooling setups (6544140B and certification 1) in initialsetup.csv cannot process device771808DPJR-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA26is taken as a machine with initial setup but without initial lot.
+The 768th row in wip.csv: This is an initial lot but the machine_instance CLFTEA51 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 789th row in wip.csv: This is an initial lot but the machine_instance CLFTEA4 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 811th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA67with tooling setups (6578688B and certification 1) in initialsetup.csv cannot process devicePS61230DRCR1-L with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA67is taken as a machine with initial setup but without initial lot.
+The 834th row in wip.csv: This is an initial lot but the machine_instance CLFTEA70 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 845th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA34with tooling setups (6525585A and certification 1) in initialsetup.csv cannot process device51622ARSMR-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA34is taken as a machine with initial setup but without initial lot.
+The 910th row in wip.csv: This is an initial lot but the machine_instance CLFTEA44 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 930th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA62with tooling setups (6569544C and certification 1) in initialsetup.csv cannot process device212006RGRR-G2$ with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA62is taken as a machine with initial setup but without initial lot.
+The 949th row in wip.csv: This is an initial lot but the machine_instance CLFTEA60 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1013th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA17with tooling setups (6526878A and certification 1) in initialsetup.csv cannot process deviceTPS2555DRCR-C with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA17is taken as a machine with initial setup but without initial lot.
+The 1035th row in wip.csv: This is an initial lot but the machine_instance CLFTEA20 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1060th row in wip.csv: This is an initial lot but the machine_instance CLFTEA54 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1121th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA89with tooling setups (6471369E and certification 1) in initialsetup.csv cannot process device94707DSGR1-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA89is taken as a machine with initial setup but without initial lot.
+The 1197th row in wip.csv: This is an initial lot but the machine_instance CLFTEA49 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1205th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA80with tooling setups (6525585A and certification 1) in initialsetup.csv cannot process deviceA3221AIRGVR-ZK with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA80is taken as a machine with initial setup but without initial lot.
+The 1208th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA45with tooling setups (6571495A and certification 1) in initialsetup.csv cannot process deviceA3221AIRGVR-ZK with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA45is taken as a machine with initial setup but without initial lot.
+The 1221th row in wip.csv: This is an initial lot but the machine_instance CLFTEA1 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1271th row in wip.csv: This is an initial lot but the machine_instance CLFTEA82 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1280th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA74with tooling setups (6525585A and certification 1) in initialsetup.csv cannot process deviceTPS53317RGBR-L with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA74is taken as a machine with initial setup but without initial lot.
+The 1340th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA75with tooling setups (6525585A and certification 1) in initialsetup.csv cannot process device1220ARSNR1-G2K with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA75is taken as a machine with initial setup but without initial lot.
+The 1387th row in wip.csv: This is an initial lot but the machine_instance CLFTEA81 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1420th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA11with tooling setups (6541533C and certification 1) in initialsetup.csv cannot process deviceBQ24196RGER-RY with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA11is taken as a machine with initial setup but without initial lot.
+The 1454th row in wip.csv: This is an initial lot but the machine_instance CLFTEA22 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1473th row in wip.csv: This is an initial lot but the machine_instance CLFTEA29 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1494th row in wip.csv: This is an initial lot but the machine_instance CLFTEA43 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1543th row in wip.csv: This is an initial lot but the machine_instance CLFTEA28 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1567th row in wip.csv: This is an initial lot but the machine_instance CLFTEA77 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1579th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA78with tooling setups (6543648B and certification 2) in initialsetup.csv cannot process deviceBQ24196RGER-RY with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA78is taken as a machine with initial setup but without initial lot.
+The 1612th row in wip.csv: This is an initial lot but the machine_instance CLFTEA68 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1623th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1624th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1625th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1668th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA48with tooling setups (6514558B and certification 1) in initialsetup.csv cannot process device406035RGER-G2Y with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA48is taken as a machine with initial setup but without initial lot.
+The 1702th row in wip.csv: This is an initial lot but the machine_instance CLFTEA12 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1729th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1733th row in wip.csv: This is an initial lot but the machine_instance CLFTEA40 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1747th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA71with tooling setups (6471907A and certification 2) in initialsetup.csv cannot process deviceTPS54622RHLR-L with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA71is taken as a machine with initial setup but without initial lot.
+The 1753th row in wip.csv: This is an initial lot but the machine_instance CLFTEA2 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1763th row in wip.csv: This is an initial lot but the machine_instance CLFTEA31 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1963th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA84with tooling setups (6524040A and certification 1) in initialsetup.csv cannot process deviceBQ24196RGER-RY with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA84is taken as a machine with initial setup but without initial lot.
+The 1965th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1966th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1967th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1968th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1969th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1970th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1971th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1972th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1973th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1974th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1975th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1976th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1977th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1978th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1979th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1980th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1981th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1982th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1983th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1984th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1985th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1986th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1987th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1988th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1989th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1990th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1991th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1992th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1993th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1994th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1995th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1996th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1997th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1998th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1999th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2000th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2001th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2002th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2003th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2004th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2005th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2006th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2007th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2008th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2009th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2010th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2011th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2012th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2013th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2014th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2015th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2016th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2017th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2018th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2019th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2020th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2021th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2022th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2023th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2024th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2025th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2026th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2027th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2028th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2029th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2030th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2031th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2032th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2033th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2034th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2035th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2036th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2037th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2038th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2039th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2040th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2041th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2042th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2043th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2044th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2045th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2046th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2047th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2048th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2049th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2050th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2051th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2052th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2053th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2054th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2055th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2056th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2057th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2058th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2059th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2060th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2061th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2062th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2063th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2064th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2065th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2066th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2067th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2068th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2069th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2070th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2071th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2072th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2073th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2074th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2075th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2076th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2077th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2078th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2079th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2080th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2081th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2082th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2083th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2084th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2085th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2086th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2087th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2088th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2089th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2090th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2091th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2092th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2093th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2094th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2095th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2096th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2097th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2098th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2099th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2100th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2101th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2102th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2103th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2104th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2105th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2106th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2107th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2108th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2109th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2110th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2111th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2112th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2113th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2114th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2115th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2116th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2117th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2118th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2119th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2120th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2121th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2122th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2123th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2124th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2125th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2126th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2127th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2128th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2129th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2130th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2131th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2132th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2133th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2134th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2135th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2136th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2137th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2138th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2139th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2140th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2141th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2142th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2143th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2144th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2145th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2146th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2147th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2148th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2149th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2150th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2151th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2152th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2153th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2154th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2155th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2156th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2157th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2158th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2159th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2160th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2161th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2162th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2163th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2164th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2165th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2166th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2167th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2168th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2169th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2170th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2171th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2172th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2173th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2174th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2175th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2176th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2177th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2178th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2179th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2180th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2181th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2182th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2183th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2184th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2185th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2186th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2187th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2188th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2189th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2190th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2191th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2192th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2193th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2194th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2195th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2196th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2197th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2198th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2199th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2200th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2201th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2202th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2203th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2204th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2205th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2206th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2207th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2208th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2209th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2210th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2211th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2212th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2213th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2214th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2215th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2216th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2217th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2218th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2219th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2220th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2221th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2222th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2223th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2224th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2225th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2226th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2227th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2228th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2229th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2230th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2231th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2232th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2233th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2234th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2235th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2236th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2237th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2238th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2239th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2240th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2241th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2242th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2243th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2244th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2245th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2246th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2247th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2248th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2249th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2250th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2251th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2252th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2253th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2254th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2255th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2256th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2257th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2258th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2259th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2260th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2261th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2262th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2263th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2264th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2265th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2266th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2267th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2268th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2269th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2270th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2271th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2272th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2273th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2274th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2275th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2276th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2277th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2278th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2279th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2280th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2281th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2282th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2283th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2284th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2285th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2286th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2287th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2288th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2289th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2290th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2291th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2292th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2293th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2294th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2295th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2296th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2297th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2298th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2299th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2300th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2301th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2302th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2303th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2304th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2305th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2306th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2307th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2308th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2309th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2310th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2311th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2312th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2313th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2314th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2315th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2316th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2317th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2318th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2319th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2320th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2321th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2322th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2323th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2324th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2325th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2326th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2327th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2328th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2329th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2330th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2331th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2332th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2333th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2334th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2335th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2336th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2337th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2338th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2339th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2340th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2341th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2342th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2343th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2344th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2345th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2346th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2347th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2348th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2349th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2350th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2351th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2352th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2353th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2354th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2355th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2356th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2357th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2358th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2359th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2360th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2361th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2362th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2363th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2364th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2365th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2366th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2367th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2368th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2369th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2370th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2371th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2372th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2373th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2374th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2375th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2376th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2377th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2378th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2379th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2380th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2381th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2382th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2383th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2384th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2385th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2386th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2387th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2388th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2389th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2390th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2391th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2392th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2393th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2394th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2395th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2396th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2397th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2398th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2399th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2400th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2401th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2402th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2403th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2404th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2405th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2406th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2407th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2408th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2409th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2410th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2411th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2412th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2413th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2414th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2415th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2416th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2417th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2418th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2419th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2420th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2421th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2422th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2423th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2424th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2425th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2426th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2427th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2428th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2429th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2430th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2431th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2432th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2433th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2434th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2435th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2436th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2437th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2438th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2439th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2440th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2441th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2442th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2443th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2444th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2445th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2446th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2447th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2448th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2449th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2450th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2451th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2452th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2453th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2454th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2455th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2456th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2457th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2458th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2459th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2460th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2461th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2462th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2463th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2464th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2465th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2466th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2467th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2468th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2469th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2470th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2471th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2472th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2473th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2474th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2475th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2476th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2477th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2478th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2479th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2480th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2481th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2482th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2483th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2484th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2485th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2486th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2487th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2488th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2489th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2490th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2491th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2492th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2493th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2494th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2495th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2496th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2497th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2498th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2499th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2500th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2501th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2502th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2503th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2504th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2505th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2506th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2507th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2508th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2509th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2510th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2511th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2512th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2513th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2514th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2515th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2516th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2517th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2518th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2519th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2520th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2521th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2522th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2523th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2524th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2525th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2526th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2527th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2528th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2529th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2530th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2531th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2532th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2533th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2534th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2535th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2536th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2537th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2538th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2539th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2540th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2541th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2542th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2543th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2544th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2545th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2546th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2547th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2548th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2549th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2550th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2551th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2552th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2553th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2554th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2555th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2556th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2557th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2558th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2559th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2560th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2561th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2562th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2563th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2564th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2565th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2566th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2567th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2568th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2569th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2570th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2571th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2572th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2573th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2574th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2575th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2576th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2577th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2578th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2579th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2580th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2581th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2582th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2583th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2584th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2585th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2586th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2587th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2588th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2589th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2590th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2591th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2592th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2593th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2594th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2595th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2596th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2597th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2598th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2599th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2600th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2601th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2602th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2603th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2604th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2605th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2606th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2607th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2608th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2609th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2610th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2611th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2612th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2613th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2614th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2615th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2616th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2617th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2618th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2619th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2620th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2621th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2622th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2623th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2624th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2625th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2626th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2627th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2628th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2629th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2630th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2631th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2632th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2633th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2634th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2635th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2636th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2637th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2638th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2639th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2640th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2641th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2642th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2643th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2644th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2645th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2646th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2647th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2648th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2649th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2650th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2651th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2652th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2653th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2654th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2655th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2656th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2657th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2658th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2659th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2660th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2661th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2662th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2663th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2664th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2665th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2666th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2667th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2668th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2669th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2670th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2671th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2672th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2673th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2674th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2675th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2676th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2677th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2678th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2679th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2680th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2681th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2682th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2683th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2684th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2685th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2686th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2687th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2688th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2689th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2690th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2691th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2692th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2693th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2694th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2695th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2696th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2697th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2698th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2699th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2700th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2701th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2702th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2703th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2704th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2705th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2706th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2707th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2708th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2709th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2710th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2711th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2712th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2713th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2714th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2715th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2716th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2717th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2718th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2719th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2720th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2721th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2722th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2723th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2724th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2725th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2726th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2727th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2728th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2729th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2730th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2731th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2732th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2733th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2734th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2735th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2736th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2737th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2738th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2739th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2740th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2741th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2742th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2743th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2744th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2745th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2746th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2747th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2748th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2749th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2750th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2751th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2752th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2753th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2754th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2755th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2756th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2757th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2758th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2759th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2760th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2761th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2762th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2763th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2764th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2765th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2766th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2767th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2768th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2769th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2770th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2771th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2772th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2773th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2774th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2775th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2776th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2777th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2778th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2779th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2780th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2781th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2782th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2783th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2784th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2785th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2786th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2787th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2788th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2789th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2790th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2791th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2792th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2793th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2794th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2795th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2796th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2797th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2798th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2799th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2800th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2801th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2802th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2803th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2804th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2805th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2806th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2807th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2808th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2809th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2810th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2811th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2812th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2813th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2814th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2815th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2816th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2817th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2818th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2819th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2820th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2821th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2822th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2823th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2824th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2825th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2826th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2827th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2828th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2829th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2830th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2831th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2832th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2833th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2834th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2835th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2836th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2837th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2838th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2839th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2840th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2841th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2842th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2843th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2844th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2845th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2846th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2847th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2848th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2849th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2850th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2851th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2852th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2853th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2854th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2855th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2856th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2857th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2858th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2859th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2860th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2861th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2862th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2863th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2864th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2865th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2866th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2867th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2868th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2869th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2870th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2871th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device S544B20RVFT-LN to the set of devices DEV. It is still used.
+The 3th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device S65175ARSHR-UN to the set of devices DEV. It is still used.
+The 4th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device Q25890HRTWR-G2 to the set of devices DEV. It is still used.
+The 5th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device S65175RSHR2-UN to the set of devices DEV. It is still used.
+The 7th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device PS63030DSKR-CK to the set of devices DEV. It is still used.
+The 11th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device PS7A4700RGWR-R to the set of devices DEV. It is still used.
+The 12th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device 304056RSBR-G2K to the set of devices DEV. It is still used.
+The 15th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device 603V1RUNR-G2N# to the set of devices DEV. It is still used.
+The 16th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device PS65132WRVCR-R to the set of devices DEV. It is still used.
+In initialsetup.csv machine CLFTEA24has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA35has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA84's initial setup: the combination of tooling family(6524040A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA84.So no lot skipped.In initialsetup.csv machine CLFTEA36has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA69has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA53has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA18has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA48has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA62's initial setup: the combination of tooling family(6569544C)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA62.So no lot skipped.In initialsetup.csv machine CLFTEA74has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA88has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA83's initial setup: the combination of tooling family(6524040A)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA83.So no lot skipped.In initialsetup.csv machine CLFTEA26has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA41has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA71has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA15has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA32has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA64has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA75has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA80has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA89has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA73has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA45has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA78's initial setup: the combination of tooling family(6543648B)and temperatue(2)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA78.So no lot skipped.In initialsetup.csv machine CLFTEA37has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA67has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA66has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA63has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA76has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA11has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA86has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA87has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA33has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA17has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA34has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA59has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA57has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA42has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA65has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA50has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA23has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA30has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv machine CLFTEA46has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.

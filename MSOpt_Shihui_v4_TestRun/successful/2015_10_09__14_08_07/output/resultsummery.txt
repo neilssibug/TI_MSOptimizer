@@ -1,0 +1,10 @@
+Phase I statistics:
+solution pool:
+obj=3.90282e+08,weighted sum lots(no initial lots)=1.49863e+06
+total_shortage=788491,total_weighted_shortage=4.08523e+08
+After resetup
+obj = 3.902e+08
+The end time is Fri Oct  9 14:24:09 2015
+
+The code has been running for 799 seconds (real time)totally.
+Total cpu time = 798.437 seconds

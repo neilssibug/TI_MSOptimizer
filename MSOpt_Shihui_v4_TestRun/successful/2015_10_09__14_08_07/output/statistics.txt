@@ -1,0 +1,11 @@
+Num_Lot = 2417
+Num_Initial_lots=43
+Num_Device = 155
+Num_Keydevice = 11
+Num_Package = 0
+Num_Temperature = 3
+Num_Machine = 88
+Num_Machine_Group = 12
+Num_Tooling = 601
+Num_Tooling_Family = 153
+Number of routes = 899

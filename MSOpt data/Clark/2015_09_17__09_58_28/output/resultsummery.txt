@@ -1,0 +1,31 @@
+it costs 1846 seconds to run the Phase I iterations
+best iter=498,best_obj=2.06204e+09
+Phase I statistics:
+Min =1.94548e+09,Max=1.98839e+09
+ave obj=2.09489e+09
+solution pool:
+1.94548e+09
+1.94548e+09
+1.94548e+09
+1.94549e+09
+1.94549e+09
+1.94549e+09
+1.95118e+09
+1.95523e+09
+1.95576e+09
+1.95948e+09
+1.95949e+09
+1.95984e+09
+1.96448e+09
+1.96696e+09
+1.98729e+09
+1.98839e+09
+1.98839e+09
+1.98839e+09
+1.98839e+09
+1.98839e+09
+After resetup
+obj = 1.94531e+09
+The end time is Thu Sep 17 10:35:34 2015
+
+The code has been running for 2132 seconds totally.

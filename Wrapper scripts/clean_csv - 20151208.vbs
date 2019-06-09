@@ -1,0 +1,577 @@
+'#########################################################
+'Clean CSV files
+'AUTH: Michael
+'VERSION: 1.3
+'DESC:
+'	Scripts to be run before executing AT.exe
+'
+' -Download keydevices from DB
+' -Remove  multiple space at WIP.csv start_time field
+' -Read CSV File
+'VERSION: 1.4
+'DESC:
+'	-Read MAXWipDays
+'	-Dump input files to mysql database. mysql odbc connetion driver 5.1 needed
+'	-correct temperature in machines.csv
+'	-Create limited wip based on WIPdaysmax on MSOPTconfig file
+'	-Create initialsetup.csv
+'	-Limit wip for keydevices to target output only
+'	-remove start_time and machine instance
+'VERSION: 1.5
+' -generate new machine_hours.csv
+' -Ignore maxwipdays for regular device
+' -add buffer to key devices target
+' -Fix single digit tester
+' -Download machines.csv  from DB
+'VERSION: 1.6
+' -Generate new tooling family setup time
+'VERSION: 1.7
+' -add initial setup.
+' -
+'##########################################################
+'change sql here
+Dim sql_ora : sql_ora = "select DEVICE_NAME,TARGET_AMOUNT from rpttest_admin.optimizer_key_devices where STATUS='CURRENT' order by LAST_UPDATE"
+
+'##########################################################
+'buffer for key devices
+Const key_buffer = 1.1 ' add 10% to target output
+'tooling family setup time
+Const tooling_family_setup_time = 0.0007 '0.083
+
+Const ForReading = 1
+Const ForWriting = 2
+
+Dim WIPdaysmax
+Dim DEFAULT_CAPACITY_PER_DAY_PER_TESTER
+Dim USE_DEFAULT_CAPACITY
+Dim queue_threshold
+Dim Queue_size_enable
+Dim skip_row : skip_row = 0
+Dim local_folder : local_folder = "c:\optimizer\"
+dim local_input : local_input = "c:\optimizer\data"
+'Dim sqlplus : sqlplus = "C:\oracle\product\11.2\BIN\sqlplus"
+Dim sqlplus : sqlplus = "C:\oraclexe\app\oracle\product\10.2.0\server\BIN\sqlplus"
+Dim sqlloc : sqlloc = "c:\optimizer\sql"
+Dim machine_sql : machine_sql = sqlloc & "\machines.sql"
+Dim keydevices_sql : keydevices_sql = sqlloc & "\keydevices.sql"
+Dim loadboardstatus_sql : loadboardstatus_sql = sqlloc & "\loadboard_status.sql"
+Set objFSO = CreateObject("Scripting.FileSystemObject")
+'Set objFile = objFSO.OpenTextFile(local_input & "\wip.csv", ForReading)
+'Set objFile_wipdays = objFSO.OpenTextFile(local_input & "\MSOPTconfig.csv", ForReading)
+Set objshell = CreateObject("WScript.Shell")
+
+WScript.StdOut.Write("Creating keydevices.csv" & vbCrLf)
+Download_input_files 'download key_devices
+
+'MYSQL connection 
+set mycn = CreateObject("ADODB.Connection")
+set myrs = CreateObject("ADODB.Recordset")
+set oRcs = CreateObject("ADODB.Recordset")
+set oRwc = CreateObject("ADODB.Recordset")
+connectionString = "Driver={MySQL ODBC 5.1 Driver};Server=localhost;Database=optimizer;User=root; Password=root;"
+mycn.Open connectionString
+'upload csv files to local mysql database
+WScript.StdOut.Write("Uploading csv files" & vbCrLf)
+upload_mysql
+WScript.StdOut.Write("Uploading csv files Complete" & vbCrLf)
+WScript.StdOut.Write("Processing config file" & vbCrLf)
+get_config
+WScript.StdOut.Write("Processing config file.. ok" & vbCrLf)
+
+
+'backup wip to wip_full and delete old wip
+strErrorCode = objshell.Run ("cmd.exe /c copy " & local_input & "\wip.csv " & local_input & "\wip_full.csv /Y " ,0,true)
+
+
+'strErrorCode = objshell.Run ("cmd.exe /c del c:\optimizer\data\wip.csv " ,0,true)
+
+at_sql=" "
+if Queue_size_enable=1 then
+	if USE_DEFAULT_CAPACITY=1 then 
+		at_sql= " and below_pkg_queue=0 and below_lb_queue=0 "  
+	else 
+		at_sql = " and queue>" & queue_threshold
+	end if
+end if 
+
+WScript.StdOut.Write("Generating wip.. " & vbCrLf)
+WScript.StdOut.Write("sql: " & at_sql  & vbCrLf)
+objFSO.DeleteFile "c:\optimizer\data\wip.csv"
+'process cumulative wip days and output new wip.csv file
+sql = " (select 'LOT','DEVICE','PACKAGE','PIN','CUR_QTY','WEIGHT','LOT_NAME','LPT','OPN','TOTAL_PLAN_CT','CUM_PLAN_CT','LOT_AGE','START_TIME','SNAPSHOOT_TIME','MACHINE_INSTANCE') " & _
+" union " & _
+" ( select LOT,DEVICE,PACKAGE,PIN,CUR_QTY,WEIGHT,LOT_NAME,CASE WHEN LPT<>'4420' THEN '4410' ELSE '4420' END AS LPT,OPN,TOTAL_PLAN_CT,CUM_PLAN_CT,LOT_AGE,START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE from ( " & _
+" select LOT,DEVICE,PACKAGE,PIN,CUR_QTY,WEIGHT,LOT_NAME,LPT,OPN,TOTAL_PLAN_CT,CUM_PLAN_CT,LOT_AGE,START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE,wipdays,ID,cumwipdays,key_total,tempdev,keydev,target,queue,current_lb from ( " & _
+" select LOT,fr1.DEVICE,fr1.PACKAGE,fr1.PIN,CUR_QTY,WEIGHT,LOT_NAME,LPT,OPN,TOTAL_PLAN_CT, " & _
+" CUM_PLAN_CT,LOT_AGE,START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE,wipdays,fr1.ID,current_lb " & _
+" ,case when keydev=1 or current_lb=1 then 9999 else if(fr1.device in (select r.device from route r where r.tooling_family in (select atss_loadboard from smsdw)),9999,round((wip_total.total_wip/round((if(cap.capacity is null or cap.capacity = '',(select avg(capacity) from device_cap),cap.capacity )),2)),2))  end as queue   " & _
+" ,case when keydev=1 and key_total>(kd.Target * 1.1 ) and one_dev=0 then 9999 when keydev=1 then 0.1 else round( if(fr1.device in (select r.device from route r where r.tooling_family in (select atss_loadboard from smsdw)),0.1,cumwipdays),2) end as cumwipdays,key_total,tempdev,keydev,target * 1.1 as target   " & _
+" ,case when keydev=1 then 0 when wip_total.total_wip<(select value from msoptconfig where trim(configname) = 'DEFAULT_CAPACITY_PER_DAY_PER_TESTER' ) then 1 else 0 end as below_lb_queue" & _
+" ,case when keydev=1 then 0 when gpkg.total_wip_pkg<(select value from msoptconfig where trim(configname) = 'DEFAULT_CAPACITY_PER_DAY_PER_TESTER_PKG_SZE') then 1 else 0 end as below_pkg_queue" & _
+" from (  " & _
+" 	select a.LOT,a.DEVICE,a.PACKAGE,a.PIN,a.CUR_QTY,a.WEIGHT,a.LOT_NAME,a.LPT,a.OPN,a.TOTAL_PLAN_CT,a.CUM_PLAN_CT,a.LOT_AGE, START_TIME,a.SNAPSHOOT_TIME, MACHINE_INSTANCE,a.wipdays,a.ID   " & _
+" 		 ,case when @prev_device = a.device then @cumtotal := @cumtotal + a.wipdays else @cumtotal := a.wipdays end as cumwipdays   " & _
+" 		 ,case when @prev_device = a.device and a.keydev=1 then @qtytotal := @qtytotal + a.CUR_QTY else @qtytotal := a.CUR_QTY end as key_total   " & _
+" 		 ,(@prev_device := a.device) as tempdev   " & _
+" 		 , a.keydev  " & _
+" 		, case when w1.device=a.device and w1.id=a.id then 1 else 0 end as one_dev  " & _
+" 	 from (  " & _
+" 		 select @prev_device := null   " & _
+" 		 ,@cumtotal := 0   " & _
+" 		 ,@qtytotal := 0 " & _
+" 	 ) i   " & _
+" 	 join (   " & _
+" 	 select LOT,DEVICE,PACKAGE,PIN,CUR_QTY,WEIGHT,LOT_NAME,LPT,OPN,TOTAL_PLAN_CT,CUM_PLAN_CT,LOT_AGE,   " & _
+" 	 case when left(START_TIME,2)= "" ""  then replace(START_TIME,"" "" ,"""" ) else START_TIME end  as START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE,wipdays,ID,keydev from   " & _
+" 	(   " & _
+" 		 select w2.*,result2.wipdays,keydev from   " & _
+" 		 wip w2 left join   " & _
+" 		 (   " & _
+" 			 select result1.*, result1.initial_cumu as wipdays from   " & _
+" 			 (   " & _
+" 			 select   " & _
+" 			 wip.*,round(wip.cur_qty / (r.pph * 24),2) as initial_cumu   " & _
+" 			  , case when wip.device in (select key_device from keydevices k) then 1 else 0 end as keydev " & _
+" 			 from wip   " & _
+" 			 LEFT join route r on r.Device=wip.device   " & _
+" 			 ) result1   " & _
+" 			 group by result1.device   " & _
+" 			order by device,weight desc, id asc  " & _
+" 		 ) result2   " & _
+" 		 on w2.device = result2.device   " & _
+" 	 ) aa   " & _
+" 	  order by device,weight desc ,id asc  " & _
+" 	 ) a  " & _
+" 	left join (select device,min(id) as id from wip w2 group by w2.device) w1 on w1.device=a.device and w1.id=a.id  " & _
+" )fr1 left join keydevices kd on fr1.device=kd.key_device  " & _
+" left join ( " & _
+" 			select device,total_wip, case when dd.loadboard is not null then 1 else 0 end as current_lb from ( " & _
+" 			select r.Tooling_Family,wip.Device,sum(wip.CUR_QTY) as dev_wip from wip wip  " & _
+" 			left join (select device,Tooling_Family from route r   " & _
+" 			group by Tooling_Family,device) r on r.device=wip.Device  " & _
+" 			group by r.Tooling_Family,wip.Device " & _
+" 			) bb " & _
+" 			left join   " & _
+" 			(select aa.tooling_family,sum(total_wip) as total_wip from  " & _
+" 			(select r.Tooling_Family,wip.Device,sum(wip.CUR_QTY) as total_wip from wip wip  " & _
+" 			left join (select device,Tooling_Family from route r  " & _
+" 			group by Tooling_Family,device) r on r.device=wip.Device  " & _
+" 			group by r.Tooling_Family,wip.Device  " & _
+" 			) aa group by aa.tooling_family) cc on bb.tooling_family = cc.tooling_family  " & _
+" 			left join (  " & _
+" 				select * from (  " & _
+" 				select case when cl.aux_type_TWSTATUS_i = '' then cl.hib_type_TWSTATUS_i else cl.aux_type_TWSTATUS_i end as loadboard  " & _
+" 				from clattester_stationstatus cl  " & _
+"				where substr(cl.tester_TWSTATUS_i,1,4)= 'TT55'  " & _
+" 				and tempOnTstr_f<>'' ) aa  " & _
+" 				group by  aa.loadboard " & _
+" 			) dd on dd.loadboard=cc.tooling_family " & _
+" 		) wip_total on wip_total.device=fr1.device  " & _
+" left join ( " & _
+" 			select device,capacity from (  " & _
+" 			select r.Tooling_Family,wip.Device,round(sum(cap.capacity),2) as capacity_wip from wip wip  " & _
+" 			left join (select device,Tooling_Family from route r  " & _
+" 			group by Tooling_Family,device) r on r.device=wip.Device  " & _
+" 			left join device_cap cap on cap.device=wip.device  " & _
+" 			group by r.Tooling_Family,wip.Device  " & _
+" 			) cc  " & _
+" 			left join (  " & _
+" 			select aa.Tooling_Family, sum(capacity) as capacity  from (  " & _
+" 			select r.Tooling_Family,wip.Device,round(sum(cap.capacity),2) as capacity from wip wip  " & _
+" 			left join (select device,Tooling_Family from route r  " & _
+" 			group by Tooling_Family,device) r on r.device=wip.Device  " & _ 
+" 			left join device_cap cap on cap.device=wip.device  " & _
+" 			group by r.Tooling_Family,wip.Device) aa  " & _
+" 			group by aa.tooling_family ) bb on bb.tooling_family = cc.tooling_family  " & _
+" 		) cap on cap.device=fr1.device  " & _
+" left join (select wip.package,sum(wip.CUR_QTY) as total_wip_pkg from wip group by wip.package) gpkg on gpkg.package=fr1.package" & _
+" order by ID " & _
+" )fn " & _
+" where (cumwipdays<>9999 ) " & at_sql & _
+" order by ID " & _
+" )fr  order by ID " & _
+	" INTO OUTFILE 'C:/optimizer/data/wip.csv' " & _
+	" FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+	" LINES TERMINATED BY '\n' " & _
+"); "
+'msgbox sql
+myrs.open sql,mycn
+'wip cutted upload
+sql = "truncate wip_cut;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/wip.csv"" into table wip_cut fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (LOT,Device,Package,Pin,CUR_QTY,Weight,LOT_name,LPT,OPN,TOTAL_PLAN_CT,CUM_PLAN_CT,LOT_AGE,START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE);"
+myrs.open sql,mycn
+
+WScript.StdOut.Write("Generating wip..  OK" & vbCrLf)
+WScript.StdOut.Write("Generating machine.csv .. " & vbCrLf)
+'process to correct the certification on machines.csv
+objFSO.DeleteFile "c:\optimizer\data\machines.csv"
+sql = "(select 'Machine_Family','Machine_Instance','Machine_Family_Name','Certification') " & _
+" union " & _
+" (select m.machine_family,m.Machine_Instance,m.Machine_Family_Name, case when temp=25 then 1 when temp>25 then 2 when temp<25 then 3 else 1 end as certification " & _
+ " from machines m left join ( " & _
+	" select loadboard,machine_family,machine_instance,temp " & _
+	" from ( " & _
+	" select aux_type_TWSTATUS_i,hib_type_TWSTATUS_i, " & _
+	" case when aux_type_TWSTATUS_i='' then hib_type_TWSTATUS_i  " & _
+	"	else aux_type_TWSTATUS_i " & _
+	" 	end as loadboard " & _
+	" ,testerConfig_CMMSTESTERS_i as machine_family, lotOnTstr_f, substr(tempOnTstr_f,6,2) as temp " & _
+	" ,case when " & _
+	"	substr(tester_TWSTATUS_i,1,4)= 'TT55' then concat('CLFTEA', substr(tester_TWSTATUS_i,5,2)) " & _
+	" 	else tester_TWSTATUS_i " & _
+	" end as machine_instance " & _
+	" ,tstArea_TESTERS_i " & _
+	" from clattester_stationstatus " & _
+	" where tempOnTstr_f <>'' " & _
+	" ) a where a.loadboard in (select tooling_Family from (select * from tooling t where t.tooling_Family in (select Tooling_Family from route))aa) " & _
+" )rtd on m.Machine_Family=rtd.machine_family and m.machine_instance=rtd.machine_instance " & _
+" where m.machine_family in (select machine_family from route)  " & _
+" INTO OUTFILE 'C:/optimizer/data/machines.csv' " & _
+" FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+" LINES TERMINATED BY '\n' " & _
+");"
+myrs.open sql,mycn
+'machines 
+sql = "truncate machines;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/machines.csv"" into table machines fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (Machine_Family,Machine_Instance,Machine_Family_Name,Certification);"
+myrs.open sql,mycn
+WScript.StdOut.Write("Generating machine.csv ..  OK" & vbCrLf)
+
+WScript.StdOut.Write("Generating machine_hours.csv .. " & vbCrLf)
+'populate machine hours
+objFSO.DeleteFile "c:\optimizer\data\machine_hours.csv"
+sql = "(select 'machine_instance','hours') " & _
+	"union " & _
+	"(select machine_instance, case when Machine_Instance in ('CLFTEA90','CLFTEA91','CLFTEA95') then 0 else 48 end as hours from machine_hours " & _
+	" INTO OUTFILE 'C:/optimizer/data/machine_hours.csv' " & _
+	" FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+	" LINES TERMINATED BY '\n' " & _
+	");"
+myrs.open sql,mycn
+WScript.StdOut.Write("Generating machine_hours.csv ..  OK" & vbCrLf)
+
+WScript.StdOut.Write("Generating tooling.csv ..  " & vbCrLf)
+objFSO.DeleteFile "c:\optimizer\data\tooling.csv"
+'tooling
+sql = " (select 'tooling_family','Tooling_Instance', 'tooling_family_name','certification') " & _
+" union ( " & _
+" select tool.tooling_family,tool.tooling_instance,tool.Tooling_Family_Name,if (cs.Initial_Certification is null, if(m.Certification is null,tool.Certification,m.Certification),if(cs.Initial_Certification is null,tool.Certification,cs.Initial_Certification)) as initial_certification " & _
+"  from tooling tool   " & _
+"   left join (  " & _
+"   	select aaa.*,t.certification, case when t.certification<>initial_certification then 1 else 0 end as missmatch from (  " & _
+"   	select coalesce(trim(s.atss_testec_config),'') as machine_family,  " & _
+"  coalesce(trim(case when substr(t.tester_TWSTATUS_i,7,1)=0 then concat('CLFTEA',substr(t.tester_TWSTATUS_i,8,1)) else  " & _
+"  t.tester_TWSTATUS_i end ),'') as machine_instance,coalesce(trim(s.atss_testec_config),'') as machine_family_name,coalesce(trim(s.atss_loadboard),'') as initial_tooling_family,  " & _
+"   case when s.atss_temp =25 then 1  when s.atss_temp >25 then 2 when s.atss_temp <25 then 3 else ''    end as initial_certification from (  " & _
+"   select max(last_update_TWSTATUS_i) as last_update_TWSTATUS_i,tester_TWSTATUS_i,lot_TWSTATUS_i from (  " & _
+"   select concat('CLFTEA',substr(t.tester_TWSTATUS_i,5,2)) as tester_TWSTATUS_i ,t.lot_TWSTATUS_i, max(t.last_update_TWSTATUS_i) as last_update_TWSTATUS_i  from twstatus t where " & _
+"   substr(t.tester_TWSTATUS_i,1,4)='TT55'  " & _
+"   group by 1,2,last_update_TWSTATUS_i order by last_update_TWSTATUS_i desc) aa " & _
+"   group by 2) t  " & _
+"   left join smsdw s on trim(s.lot)= trim(t.lot_TWSTATUS_i) " & _
+"   group by 2  " & _
+"  )aaa left join tooling t on t.tooling_Family=aaa.initial_tooling_family " & _
+"   ) cs on cs.initial_tooling_family=tool.tooling_family  " & _
+"   left join machines m on m.Machine_Instance=cs.Machine_Instance " & _
+"   group by 1,2,3,4 " & _
+"  INTO OUTFILE 'C:/optimizer/data/tooling.csv'  " & _
+"  FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+"  LINES TERMINATED BY '\n' " & _
+"  )"
+
+myrs.open sql,mycn 
+'tooling
+sql = "truncate tooling;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/tooling.csv"" into table tooling fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (tooling_Family,Tooling_Instance,Tooling_Family_Name,Certification);"
+myrs.open sql,mycn
+
+WScript.StdOut.Write("Generating tooling.csv ..  OK" & vbCrLf)
+
+
+
+
+WScript.StdOut.Write("Generating wip---Running external script generate_initial_setup.vbs..  " & vbCrLf)
+'run external script to run insert machine instance from initialsetup (current setup on the floor) to wip
+strErrorCode = objshell.Run ("cscript " & local_folder & "generate_initial_setup.vbs" , 0 , True)
+WScript.StdOut.Write("Generating wip---Running external script generate_initial_setup.vbs..  OK" & vbCrLf)
+
+'generating new wip file
+'objFSO.DeleteFile "c:\optimizer\data\wip.csv"
+sql = " (select 'LOT','DEVICE','PACKAGE','PIN','CUR_QTY','WEIGHT','LOT_NAME','LPT','OPN','TOTAL_PLAN_CT','CUM_PLAN_CT','LOT_AGE','START_TIME','SNAPSHOOT_TIME','MACHINE_INSTANCE') " & _
+" union " & _
+" ( select LOT,DEVICE,PACKAGE,PIN,CUR_QTY,WEIGHT,LOT_NAME,LPT,OPN,TOTAL_PLAN_CT,CUM_PLAN_CT,LOT_AGE,START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE from wip_cut " & _
+	" INTO OUTFILE 'C:/optimizer/data/wip.csv' " & _
+	" FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+	" LINES TERMINATED BY '\n' " & _
+"); "
+'msgbox sql
+'myrs.open sql,mycn
+
+
+
+	
+WScript.StdOut.Write("Generating toolingfamily_setuptime.csv ..  " & vbCrLf)
+'generate tooling_family_setup_time
+objFSO.DeleteFile "c:\optimizer\data\toolingfamily_setuptime.csv"
+sql = "(select 'Tooling_Family','Setup_time') " & _ 
+	" UNION " & _
+	"(select tooling_family, " & tooling_family_setup_time & " as setup_time from toolingfamily_setuptime " & _
+		" INTO OUTFILE 'C:/optimizer/data/toolingfamily_setuptime.csv' " & _
+	" FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+	" LINES TERMINATED BY '\n' " & _
+	")"
+myrs.open sql,mycn
+WScript.StdOut.Write("Generating toolingfamily_setuptime.csv ..  OK" & vbCrLf)
+
+WScript.StdOut.Write("Generating RTD_current_vs_planner_setup.csv ..  " & vbCrLf)
+'generate tooling_family_setup_time
+'objFSO.DeleteFile "c:\optimizer\data\toolingfamily_setuptime.csv"
+sql = "(select 'Tooling_Family','Setup_time') " & _ 
+	" UNION " & _
+	"(select tooling_family, " & tooling_family_setup_time & " as setup_time from toolingfamily_setuptime " & _
+		" INTO OUTFILE 'C:/optimizer/data/toolingfamily_setuptime.csv' " & _
+	" FIELDS ENCLOSED BY '' TERMINATED BY ',' ESCAPED BY '' " & _
+	" LINES TERMINATED BY '\n' " & _
+	")"
+'myrs.open sql,mycn
+WScript.StdOut.Write("Generating toolingfamily_setuptime.csv ..  OK" & vbCrLf)
+
+WScript.StdOut.Write("Generating Uploading keydevices.csv ..  " & vbCrLf)
+'keydevices upload to mysql
+sql = "truncate keydevices;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/keydevices.csv"" into table keydevices fields terminated by ',' lines terminated by '\n'"  & _
+		" IGNORE 1 LINES (Key_Device,TARGET);"
+myrs.open sql,mycn
+WScript.StdOut.Write("Generating Uploading keydevices.csv ..  OK" & vbCrLf)
+
+
+'close mysql connection
+mycn.close
+
+set mycn = nothing
+set myrs = nothing
+
+Sub Download_input_files()
+
+	 ' download directly from database keydevices
+	on error resume next
+	Dim strCon
+	strCon ="Provider=OraOLEDB.Oracle;Data Source=CLARK_MSOPT;User ID=""rpt_user"";Password=""rptuser1"""
+
+	Dim oCon: Set oCon = CreateObject("ADODB.Connection")
+	Dim oRs: Set oRs = CreateObject("ADODB.Recordset")
+	Dim oRm: Set oRs = CreateObject("ADODB.Recordset")
+	oCon.Open strCon
+	oCon.Open strCon
+	oRs.CommandType = adCmdText
+	oRs.CursorLocation=adUseClient
+	oRs.CursorType=adOpenDynamic
+	oRs.LockType=adLockBatchOptimistic
+
+	Set oRs = oCon.Execute(sql_ora)
+	
+	'if not oRs.eof and not oRs.bof  then
+		if objFSO.FileExists(local_input & "\keydevices.csv")   then
+			Set objFilek = objFSO.OpenTextFile(local_input & "\keydevices.csv", 2, True)
+		else
+			Set objFilek = objFSO.CreateTextFile(local_input & "\keydevices.csv",True)
+		end if
+		
+		objFilek.Close
+		strNewContent1 = strNewContent1 & "Key_Device,TARGET" & vbCrLf
+		oRs.movefirst
+		WScript.StdOut.Write("Entering LOOP" & vbCrLf)
+		Do Until  oRs.EOF
+			strNewContent1 = strNewContent1 & oRs.Fields(0).Value & "," & oRs.Fields(1).Value & vbCrLf
+			oRs.MoveNext
+			WScript.StdOut.Write(oRs.Fields(0).Value & vbCrLf)
+			echo strNewContent1
+		loop
+	
+		Set objFilek = objFSO.OpenTextFile(local_input & "\keydevices.csv",ForWriting) ' remove all contents
+		objFilek.Write strNewContent1 ' write key devices to keydevices.csv data
+		objFilek.Close	
+	'end if
+	
+	
+	oCon.Close
+	Set oRm = Nothing
+	Set oRs = Nothing
+	Set oCon = Nothing
+	
+	'create machine.csv file from original query 
+	'using sqlplus
+	'strErrorCode = objshell.Run ("cmd.exe /c " & sqlplus & " -s  rpt_user/rptuser1@CLARK_MSOPT @" & machine_sql ,0,true)
+	
+	'generate keydevices
+	strErrorCode = objshell.Run ("cmd.exe /c " & sqlplus & " -s  rpt_user/rptuser1@CLARK_MSOPT @" & keydevices_sql ,0,true)
+	
+	'get package size from oracle to csv
+	
+	strErrorCode = objshell.Run ("cmd.exe /c " & sqlplus & " -s  rpt_user/rptuser1@CLARK_MSOPT @" & package_size_sql ,0,true)
+	
+	'create loadboard_status.sql
+	'using sqlplus
+	strErrorCode = objshell.Run ("cmd.exe /c " & sqlplus & "-s rpt_user/rptuser1@CLARK_MSOPT @" & loadboardstatus_sql ,0,true)
+	
+end sub
+
+sub upload_mysql
+'dump input files to database
+'route
+sql  = "truncate route;" 
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/route.csv"" into table route fields terminated by ',' lines terminated by '\n' " & _
+		" IGNORE 1 LINES (RouteName,Logpoint,Operation,LPT_Desc,Opn_Desc,Device,Package,Pin,alternate,Setup,PPH,Machine_Family,Tooling_Family,ToolQTY,Certification); "
+myrs.open sql,mycn
+
+'machines 
+sql = "truncate machines;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/machines.csv"" into table machines fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (Machine_Family,Machine_Instance,Machine_Family_Name,Certification);"
+myrs.open sql,mycn
+
+'wip_full
+sql = "truncate wip;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/wip.csv"" into table wip fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (LOT,Device,Package,Pin,CUR_QTY,Weight,LOT_name,LPT,OPN,TOTAL_PLAN_CT,CUM_PLAN_CT,LOT_AGE,START_TIME,SNAPSHOOT_TIME,MACHINE_INSTANCE);;"
+myrs.open sql,mycn
+
+'toolingfamily_setuptime
+sql = "truncate toolingfamily_setuptime;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/toolingfamily_setuptime.csv"" into table toolingfamily_setuptime fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (Tooling_Family,Setup_time);"
+myrs.open sql,mycn 
+
+'tooling
+sql = "truncate tooling;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/tooling.csv"" into table tooling fields terminated by ',' lines terminated by '\n'" & _
+		" IGNORE 1 LINES (tooling_Family,Tooling_Instance,Tooling_Family_Name,Certification);"
+myrs.open sql,mycn
+
+'machine_hours
+sql = "truncate machine_hours;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/machine_hours.csv"" into table machine_hours fields terminated by ',' lines terminated by '\n' "  & _
+		" IGNORE 1 LINES (Machine_instance,Hours);"
+myrs.open sql,mycn		
+		
+'key_pin_package
+sql = "truncate key_pin_package;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/key_pin_package.csv"" into table key_pin_package fields terminated by ',' lines terminated by '\n'"  & _
+		" IGNORE 1 LINES (Key_Package,PIN,Target);"
+myrs.open sql,mycn
+		
+'key_pin_package
+sql = "truncate key_package;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/key_package.csv"" into table key_package fields terminated by ',' lines terminated by '\n' "  & _
+		" IGNORE 1 LINES (Key_Package,Target);"
+myrs.open sql,mycn
+
+'msoptconfig
+sql = "truncate msoptconfig;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/data/MSOPTconfig.csv"" into table msoptconfig fields terminated by ',' lines terminated by '\r\n' "  & _
+		" IGNORE 1 LINES (configname,value);"
+myrs.open sql,mycn
+
+'clatTester_StationStatus, Current setup
+sql = "truncate clattester_stationstatus;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/clattester_stationstatus"" into table clattester_stationstatus fields terminated by '|' lines terminated by '\n' "  & _
+		"(aux_TWSTATUS_i,aux_type_TWSTATUS_i,cib_TWSTATUS_i,cib_type_TWSTATUS_i,devAliasOnTstr_f,devid_LOT_r,downCodeDescription_CMMSTESTERS_i,downCode_CMMSTESTERS_i,handler_TWSTATUS_i,handler_group_TWSTATUS_i,handler_type_TWSTATUS_i,hib_TWSTATUS_i,hib_type_TWSTATUS_i,lotOnTstr_f,pinOnTester_f,program_TWSTATUS_i,tempOnTstr_f,test_hw_handler_ATSSTESTSPEC_i,test_hw_hib_ATSSTESTSPEC_i,testerConfig_CMMSTESTERS_i,tester_TWSTATUS_i,tester_config_ATSSTESTSPEC_i,tester_type_TWSTATUS_i,up_UPSTATES_i,last_activity_f,tstArea_TESTERS_i,test_hw_board1_ATSSTESTSPEC_i,test_cell_DEVAREA_i,handler_TubeTray,devOnTstr_f,logptid_TWSTATUS_i,temp_type_lot_ctl_val_ATSSTESTSPEC_i,HandlerConfig_HANDLER_INFO_i,Setup_Change_f,NextLot_Trans_dttm_t,timestamp_CMMSTESTERS_i,test_niche_ATSSTESTSPEC_i,pkg_ATSSTESTSPEC_i,pkgOnTstr_f,nicheOnTstr_f);"
+myrs.open sql,mycn
+
+'TEST_NEXTLOTINFO, Current setup application updates
+sql = "truncate TEST_NEXTLOTINFO;"
+myrs.open sql,mycn 
+sql  =	"load data local infile ""C:/optimizer/TEST_NEXTLOTINFO"" into table TEST_NEXTLOTINFO fields terminated by '|' lines terminated by '\n' "  & _
+		"(User_NEXTLOTINFO_i,Next_deviceAlias_NEXTLOTINFO_i,LotId_NEXTLOTINFO_i,Lpt_NEXTLOTINFO_i,Tester_NEXTLOTINFO_i,Latest_NEXTLOTINFO_i,Trans_dttm_NEXTLOTINFO_i,dummy1,dummy2,dummy3,dummy4);"
+myrs.open sql,mycn
+
+'atss specs 
+sql = "truncate ATSSTESTSPEC;"
+myrs.open sql,mycn 
+sql  =	"load data local infile 'C:/optimizer/ATSSTESTSPEC' into table ATSSTESTSPEC fields terminated by '|' lines terminated by '\n'  "  & _
+		" (spec_device_ATSSTESTSPEC_i,sap_material_ATSSTESTSPEC_i,sbe_ATSSTESTSPEC_i,sbe_1_ATSSTESTSPEC_i,pkg_ATSSTESTSPEC_i,pin_ATSSTESTSPEC_i,pkg_group_ATSSTESTSPEC_i,demand_ATSSTESTSPEC_i, "  & _
+    " sub_flow_name_ATSSTESTSPEC_i, opn_name_ATSSTESTSPEC_i,osn_ATSSTESTSPEC_i,setno_ATSSTESTSPEC_i,sequence_ATSSTESTSPEC_i,tester_config_ATSSTESTSPEC_i,test_hw_ATSSTESTSPEC_i, "  & _
+    " test_hw_board1_ATSSTESTSPEC_i,test_hw_board2_ATSSTESTSPEC_i,test_hw_board3_ATSSTESTSPEC_i,test_hw_board4_ATSSTESTSPEC_i,test_hw_board5_ATSSTESTSPEC_i,test_hw_board6_ATSSTESTSPEC_i, "  & _
+    " test_hw_cib_ATSSTESTSPEC_i,test_hw_cib1_ATSSTESTSPEC_i,test_hw_cib2_ATSSTESTSPEC_i,test_hw_cib3_ATSSTESTSPEC_i,test_hw_ent_grp_ATSSTESTSPEC_i,test_hw_handler_ATSSTESTSPEC_i, "  & _
+    " test_hw_handler1_ATSSTESTSPEC_i,test_hw_handler2_ATSSTESTSPEC_i,test_hw_hib_ATSSTESTSPEC_i,test_hw_hib1_ATSSTESTSPEC_i,test_hw_hib2_ATSSTESTSPEC_i,test_hw_hib3_ATSSTESTSPEC_i, "  & _
+    " test_prog_ATSSTESTSPEC_i,test_prog_tester_ATSSTESTSPEC_i,test_niche_ATSSTESTSPEC_i, "  & _
+    " temp_type_ATSSTESTSPEC_i,temp_type_lot_ctl_val_ATSSTESTSPEC_i , test_temperature_ATSSTESTSPEC_i,handler_config_ATSSTESTSPEC_i, "  & _
+	" handler_config1_ATSSTESTSPEC_i,handler_config2_ATSSTESTSPEC_i , bi_time_to_test_ATSSTESTSPEC_i, test_prog_lot_ctl_val_ATSSTESTSPEC_i ,test_type_ATSSTESTSPEC_i, "  & _
+    " handler_config1_ATSSTESTSPEC_i,handler_config2_ATSSTESTSPEC_i,bi_time_to_test_ATSSTESTSPEC_i, "  & _
+    " test_prog_lot_ctl_val_ATSSTESTSPEC_i,test_type_ATSSTESTSPEC_i,dummy0_ATSSTESTSPEC_i,dummy1_ATSSTESTSPEC_i,dummy2_ATSSTESTSPEC_i,dummy3_ATSSTESTSPEC_i,dummy4_ATSSTESTSPEC_i, "  & _
+    " dummy5_ATSSTESTSPEC_i,dummy6_ATSSTESTSPEC_i,dummy7_ATSSTESTSPEC_i,dummy8_ATSSTESTSPEC_i,dummy9_ATSSTESTSPEC_i,isgood_sps06_ATSSTESTSPEC_i,isdeleted_mm06_ATSSTESTSPEC_i,industry_sector_ATSSTESTSPEC_i,max_compattr_date_ATSSTESTSPEC_i)"
+myrs.open sql,mycn
+
+'testware status
+sql="truncate twstatus"
+myrs.open sql,mycn
+sql =" load data local infile 'C:/optimizer/data/twstatus' into table twstatus fields terminated by '|' lines terminated by '\n' " & _
+" (tester_TWSTATUS_i,tester_type_TWSTATUS_i,handler_TWSTATUS_i,handler_type_TWSTATUS_i,handler_group_TWSTATUS_i,hib_TWSTATUS_i, " & _
+"     hib_type_TWSTATUS_i,cib_TWSTATUS_i,cib_type_TWSTATUS_i,aux_TWSTATUS_i,aux_type_TWSTATUS_i,lot_TWSTATUS_i, program_TWSTATUS_i, " & _
+"     probecard_TWSTATUS_i,last_update_TWSTATUS_i,last_activity_TWSTATUS_i,secs_idle_TWSTATUS_i) "
+myrs.open sql,mycn
+
+'package size
+sql = "truncate package_size;"
+myrs.open sql,mycn 
+sql = "load data local infile ""C:/optimizer/extn_files/pkgsize.csv"" into table package_size fields terminated by ',' lines terminated by '\r\n'"  & _
+	" IGNORE 1 LINES (PACKAGE,PIN,PKG_GRP,PKG_SIZE,PKGTYPE,PIN_PKG);"
+myrs.open sql,mycn 
+
+end sub
+
+sub get_config
+'read config files
+	Set objFile = objFSO.OpenTextFile("c:\optimizer\data\MSOPTconfig.csv", ForReading)
+	
+Do Until objFile.AtEndOfStream
+    strLine = objFile.ReadLine
+    arrFields = Split(strLine, ",")
+					
+	if(arrFields(0) = "Queue_size_enable") then
+		Queue_size_enable = arrFields(1)
+		WScript.StdOut.Write(arrFields(0) & "=" & arrFields(1) & vbCrLf)
+	end if
+	
+	if(arrFields(0) = "queue_threshold") then
+		queue_threshold = arrFields(1)
+		WScript.StdOut.Write(arrFields(0) & "=" & arrFields(1) & vbCrLf)
+	end if
+	
+	if(arrFields(0) = "DEFAULT_CAPACITY_PER_DAY_PER_TESTER") then
+		DEFAULT_CAPACITY_PER_DAY_PER_TESTER = arrFields(1)
+		WScript.StdOut.Write(arrFields(0) & "=" & arrFields(1) & vbCrLf)
+	end if
+			
+	if(arrFields(0) = "USE_DEFAULT_CAPACITY") then
+		USE_DEFAULT_CAPACITY = arrFields(1)
+		WScript.StdOut.Write(arrFields(0) & "=" & arrFields(1) & vbCrLf)
+	end if
+	
+	if(arrFields(0) = "WIPdaysmax") then
+		WIPdaysmax = arrFields(1)
+		WScript.StdOut.Write(arrFields(0) & "=" & arrFields(1) & vbCrLf)
+	end if
+	
+Loop
+
+objFile.Close
+	
+end sub

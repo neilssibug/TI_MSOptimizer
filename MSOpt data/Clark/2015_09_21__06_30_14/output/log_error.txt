@@ -1,0 +1,388 @@
+################################################################################################################
+# The file recorded all inconsistent input data.
+# It pointed out where the incomplete data is, guessed what information may be wrong and what reaction was taken.
+##################################################################################################################
+
+The tooling family 6528917b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6544140b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6580500a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6582798a exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The 624th row in route.csv: Tooling_Family is empty. The row is still used.
+The 625th row in route.csv: Tooling_Family is empty. The row is still used.
+The 626th row in route.csv: Tooling_Family is empty. The row is still used.
+The 627th row in route.csv: Tooling_Family is empty. The row is still used.
+The 628th row in route.csv: Tooling_Family is empty. The row is still used.
+The 629th row in route.csv: Tooling_Family is empty. The row is still used.
+The 630th row in route.csv: Tooling_Family is empty. The row is still used.
+The 631th row in route.csv: Tooling_Family is empty. The row is still used.
+The 632th row in route.csv: Tooling_Family is empty. The row is still used.
+The 633th row in route.csv: Tooling_Family is empty. The row is still used.
+The 634th row in route.csv: Tooling_Family is empty. The row is still used.
+The 635th row in route.csv: Tooling_Family is empty. The row is still used.
+The 636th row in route.csv: Tooling_Family is empty. The row is still used.
+The 637th row in route.csv: Tooling_Family is empty. The row is still used.
+The 638th row in route.csv: Tooling_Family is empty. The row is still used.
+The 639th row in route.csv: Tooling_Family is empty. The row is still used.
+The 640th row in route.csv: Tooling_Family is empty. The row is still used.
+The 641th row in route.csv: Tooling_Family is empty. The row is still used.
+The 642th row in route.csv: Tooling_Family is empty. The row is still used.
+The 643th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2242th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2243th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2244th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2245th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2246th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2247th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2248th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2249th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2250th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2251th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2252th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2253th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2254th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2255th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2256th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2257th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2258th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2259th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2260th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2261th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2262th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2263th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2264th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2265th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2266th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2267th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2268th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2269th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2270th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2271th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2272th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2273th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2274th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2275th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2276th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2277th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2278th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2279th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2280th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2281th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2282th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2283th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2284th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2285th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2286th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2287th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2288th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2289th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2290th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2291th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2292th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2293th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2294th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2295th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2296th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2297th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2298th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2299th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2300th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2301th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2302th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2303th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2304th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2305th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2306th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2307th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2308th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2309th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2310th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2311th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2312th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2313th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2314th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2315th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2316th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2317th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2318th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2319th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2320th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2321th row in route.csv: Tooling_Family is empty. The row is still used.
+The 2910th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2911th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2912th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2913th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2914th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2915th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2916th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2917th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2918th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2919th row in route.csv: Machine_Family is empty. The row is skipped.
+The 2920th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4065th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4066th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4067th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4068th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4069th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4070th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4071th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4072th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4073th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4074th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4075th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4076th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4077th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4078th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4079th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4080th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4081th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4082th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4083th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4084th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4085th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4086th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4087th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4088th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4089th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4090th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4091th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4092th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4093th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4094th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4095th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4096th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4097th row in route.csv: Machine_Family is empty. The row is skipped.
+The 4550th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4551th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4552th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4553th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4554th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4555th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4556th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4557th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4558th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4559th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4560th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4561th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4562th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4563th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4564th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4565th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4566th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4567th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4568th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4569th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4570th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4571th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4572th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4573th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4574th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4575th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4576th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4577th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4578th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4579th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4580th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4581th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4582th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4583th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4584th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4585th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4586th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4587th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4588th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4589th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4590th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4591th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4592th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4593th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4594th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4595th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4596th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4597th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4598th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4599th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4600th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4601th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4602th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4603th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4604th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4605th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4606th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4607th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4608th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4609th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4610th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4611th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4612th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4613th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4614th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4615th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4616th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4617th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4618th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4619th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4620th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4621th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4622th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4623th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4624th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4625th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4626th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4627th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4628th row in route.csv: Tooling_Family is empty. The row is still used.
+The 4629th row in route.csv: Tooling_Family is empty. The row is still used.
+The 5997th row in route.csv: Machine_Family is empty. The row is skipped.
+The 5998th row in route.csv: Machine_Family is empty. The row is skipped.
+The 5999th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6000th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6001th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6002th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6003th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6004th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6005th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6006th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6095th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6096th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6097th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6098th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6099th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6100th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6101th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6102th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6103th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6104th row in route.csv: Machine_Family is empty. The row is skipped.
+The 6105th row in route.csv: Machine_Family is empty. The row is skipped.
+The 190th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 191th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 192th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 194th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 195th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 196th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 197th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 198th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 199th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 201th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 202th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 203th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 204th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 205th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 206th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 262th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 263th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 264th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 265th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 271th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 317th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 321th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 341th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 342th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 343th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 344th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 695th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 705th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 970th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 971th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 972th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 973th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1063th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1068th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1072th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1077th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1203th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1204th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1205th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1206th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1207th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1208th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1209th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1210th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1211th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1212th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1213th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1214th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1316th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1320th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1321th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1328th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1379th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1380th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1381th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1382th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1383th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1384th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1385th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1386th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1387th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1388th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1423th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1445th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1446th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1479th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1491th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1492th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1493th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1494th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1500th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1524th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1526th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1527th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1770th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1772th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1780th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1788th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1801th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1804th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1805th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1806th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1807th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1808th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1809th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1815th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1817th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1818th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1819th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1820th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1848th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1854th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1871th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1872th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1873th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1935th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1960th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1969th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1970th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1991th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 1992th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2001th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2002th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2003th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2004th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2010th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2011th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2012th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2027th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2048th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2069th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2079th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2094th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2138th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2208th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2209th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2213th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2267th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2283th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2284th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2290th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2302th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2337th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2368th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2388th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2397th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2398th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2409th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2410th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 2411th row in wip.csv: The lot with Device, LPT,and OPN doesn't have a route in route.csv. The row is skipped.
+The 16th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device Q24166RGER-G2Y to the set of devices DEV. It is still used.
+The 17th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device Q24166RGET-G2Y to the set of devices DEV. It is still used.
+The 19th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device V425RTJT1-UCR& to the set of devices DEV. It is still used.
+The 20th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device AC7760IRHAR-CK to the set of devices DEV. It is still used.

@@ -1,0 +1,4 @@
+"pkgtype","num_lots","expected_output_2_days","expected_avg_per_day","cumulative_output_per_day"
+"CLIP ","38","210995","105497.5","105497.5"
+"STD  ","1052","9767453","4883726.5","4989224"
+"STRIP","236","4063231","2031615.5","7020839.5"

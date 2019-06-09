@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0043D07D
+eax=00000000 ebx=8011DD78 ecx=0000000C edx=00000000 esi=8005E008 edi=00000000
+ebp=00000000 esp=0028BFF0 program=C:\Users\x0208891\Desktop\Projects\Test Area\Versions\msopt_at-20151020\2.0\TI-msopt_at-2.0.1.0.exe, pid 10236, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace

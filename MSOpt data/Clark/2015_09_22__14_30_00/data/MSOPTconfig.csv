@@ -1,0 +1,7 @@
+config_name,value
+WIPdaysmax,3
+multiple_Weight,1
+queue_threshold,0
+Queue_size_enable,0
+DEFAULT_CAPACITY_PER_DAY_PER_TESTER  ,30000
+USE_DEFAULT_CAPACITY  ,0

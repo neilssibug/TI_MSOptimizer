@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0065B1F9
+eax=00000001 ebx=00000001 ecx=00000002 edx=FDCF0DEC esi=8005F3A0 edi=8014CCD8
+ebp=00000DE0 esp=0028C020 program=C:\Users\x0226753\eclipse_workspace\MSOpt_v4.0_Shihui\release\msopt_at.exe, pid 6084, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args

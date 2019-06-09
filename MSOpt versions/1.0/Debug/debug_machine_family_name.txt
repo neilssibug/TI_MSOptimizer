@@ -1,0 +1,15 @@
+id=1,name=ETS-INA-64
+id=2,name=ETS-2-64
+id=3,name=ETS-1-64
+id=4,name=ETS-2M-64
+id=5,name=ETS-S-64
+id=6,name=ETS364-NONSTD
+id=7,name=ETS-0-64
+id=8,name=ETS-2-128
+id=9,name=ETS-1M-64
+id=10,name=ETM-4-64
+id=11,name=ETM-5-128
+id=12,name=ETS-200FT
+id=13,name=ETS-2Q-64
+id=14,name=ETS-4M-128
+id=15,name=ETM-2-64

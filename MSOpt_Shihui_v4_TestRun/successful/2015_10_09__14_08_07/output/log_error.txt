@@ -1,0 +1,428 @@
+################################################################################################################
+# The file recorded all inconsistent input data.
+# It pointed out where the incomplete data is, guessed what information may be wrong and what reaction was taken.
+##################################################################################################################
+
+The 2th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 3th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 5th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 6th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 7th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 8th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 9th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 10th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 13th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 15th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 18th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 20th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 22th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 23th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 24th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 25th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 26th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 27th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 28th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 29th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 30th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 31th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 33th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 35th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 36th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 37th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 38th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 39th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 40th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 41th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 43th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 44th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 45th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 46th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 48th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 49th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 50th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 51th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 52th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 53th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 54th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 55th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 58th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 60th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 61th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 62th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 64th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 65th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 66th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 67th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 69th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 70th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 73th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 75th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 76th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 78th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 80th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 81th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 83th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 87th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 88th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 89th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 90th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 91th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 92th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 93th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 94th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 95th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 96th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 97th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 100th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 101th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 103th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 104th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 106th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 107th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 109th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 110th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 111th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 112th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 114th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 115th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 117th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 118th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 119th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 120th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 122th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 123th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 124th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 125th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 126th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 127th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 131th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 132th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 133th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 135th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 136th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 137th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 139th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 140th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 141th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 144th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 146th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 147th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 148th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 151th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 157th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 158th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 160th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 162th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 163th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 164th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 165th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 166th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 167th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 168th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 170th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 171th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 174th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 177th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 178th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 180th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 181th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 183th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 187th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 188th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 189th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 191th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 194th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 195th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 196th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 198th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 201th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 202th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 203th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 204th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 205th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 206th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 208th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 209th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 210th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 212th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 213th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 217th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 218th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 219th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 220th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 221th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 223th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 226th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 227th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 229th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 230th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 231th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 234th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 236th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 237th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 238th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 240th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 241th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 242th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 243th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 244th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 245th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 246th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 247th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 248th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 249th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 250th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 256th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 260th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 261th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 262th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 264th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 265th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 266th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 270th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 275th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 276th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 277th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 278th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 280th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 281th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 283th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 284th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 285th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 286th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 287th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 288th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 289th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 290th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 291th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 294th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 296th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 298th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 300th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 301th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 302th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 304th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 305th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 306th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 307th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 308th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 310th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 311th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 312th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 313th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 314th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 315th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 316th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 317th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 321th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 324th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 325th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 326th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 327th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 328th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 329th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 330th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 331th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 332th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 334th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 336th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 337th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 338th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 339th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 341th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 343th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 344th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 346th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 347th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 349th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 350th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 351th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 352th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 353th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 356th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 357th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 360th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 361th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 362th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 364th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 366th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 367th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 370th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 372th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 373th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 374th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 375th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 381th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 383th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 384th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 385th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 387th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 388th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 389th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 390th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 391th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 392th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 393th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 394th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 395th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 396th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 397th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 398th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 401th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 402th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 403th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 404th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 405th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 408th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 409th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 410th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 411th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 412th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 413th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 414th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 417th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 418th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 419th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 420th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 421th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 422th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 423th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 426th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 427th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 428th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 433th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 434th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 435th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 436th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 437th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 438th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 440th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 441th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 443th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 445th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 447th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 448th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 449th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 450th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 451th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 452th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 453th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 454th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 456th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 457th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 459th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The 460th row in toolingfamily_setuptime.csv: No corresponding tool family. The row is skipped.
+The tooling family 6528917b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The tooling family 6544140b exsits in tooling.csv but not in toolingfamily_setuptime.csv. The setuptime for this tooling family is taken as 0
+The 229th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 230th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 231th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 232th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 233th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 234th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 235th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 236th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 293th row in route.csv: Machine_Family is empty. The row is skipped.
+The 383th row in route.csv: Machine_Family is empty. The row is skipped.
+The 423th row in route.csv: Tooling_Family is empty. The row is still used.
+The 424th row in route.csv: Tooling_Family is empty. The row is still used.
+The 425th row in route.csv: Tooling_Family is empty. The row is still used.
+The 426th row in route.csv: Tooling_Family is empty. The row is still used.
+The 427th row in route.csv: Tooling_Family is empty. The row is still used.
+The 428th row in route.csv: Tooling_Family is empty. The row is still used.
+The 429th row in route.csv: Tooling_Family is empty. The row is still used.
+The 430th row in route.csv: Tooling_Family is empty. The row is still used.
+The 431th row in route.csv: Tooling_Family is empty. The row is still used.
+The 579th row in route.csv: Machine_Family is empty. The row is skipped.
+The 580th row in route.csv: Machine_Family is empty. The row is skipped.
+The 581th row in route.csv: Machine_Family is empty. The row is skipped.
+The 602th row in route.csv: Machine_Family is empty. The row is skipped.
+The 611th row in route.csv: Machine_Family is empty. The row is skipped.
+The 649th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 650th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 651th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 652th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 653th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 654th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 655th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 656th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1582th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1583th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1584th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The 1585th row in route.csv: Tooling_Family is not found in tooling.csv. The row is skipped.
+The machine instance CLFTEA15 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA19 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA2 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA20 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA23 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA24 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA26 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA3 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA35 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA36 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA39 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA4 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA40 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA43 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA44 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA46 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA49 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA5 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA53 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA56 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA57 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA6 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA60 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA62 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA65 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA66 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA7 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA70 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA71 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA78 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA80 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA85 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA86 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA87 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA88 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA89 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA9 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA90 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA91 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA95 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA97 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA98 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The machine instance CLFTEA99 doesn't exist (or skipped) in initialsetup.csv.This machine is taken as no initial setup
+The 24th row in wip.csv: This is an initial lot but the machine_instance CLFTEA3 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 26th row in wip.csv: This is an initial lot but the machine_instance CLFTEA89 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 52th row in wip.csv: This is an initial lot but the machine_instance CLFTEA56 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 62th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 237th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 292th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA83with tooling setups (6492420C and certification 1) in initialsetup.csv cannot process devicePS54218RTER3-C with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA83is taken as a machine with initial setup but without initial lot.
+The 432th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 638th row in wip.csv: This is an initial lot. But the initial machine_instanceCLFTEA41with tooling setups (6493741B and certification 1) in initialsetup.csv cannot process deviceS51200DRCR-G2Y with logpoint equal to4410 because there is no corresponding route in route.csv.The lot is skipped.
+The machine instanceCLFTEA41is taken as a machine with initial setup but without initial lot.
+The 925th row in wip.csv: This is an initial lot but the machine_instance CLFTEA20 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 987th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 988th row in wip.csv: This is an initial lot but the machine_instance CLFTEA2 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1161th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 1164th row in wip.csv: This is an initial lot but the machine_instance CLFTEA5 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1408th row in wip.csv: This is an initial lot but the machine_instance CLFTEA46 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 1446th row in wip.csv: This is an initial lot but the machine_instance is not found in machines.csv. The row is skipped.
+The 1463th row in wip.csv: This is an initial lot but the machine_instance CLFTEA26 is not found (or skipped) in initialsetup.csv. The lot is skipped.
+The 7th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device 53315RGFR-LS2Y to the set of devices DEV. It is still used.
+The 10th row in keydevices.csv: The Key_Device is not found (or skipped )in wip.csv. Add device PS53124RGER-JK to the set of devices DEV. It is still used.
+The 2th row in machine_hours.csv: machine instance CLFTEA1 is not included in machines.csv. The row is skipped.
+The 3th row in machine_hours.csv: machine instance CLFTEA10 is not included in machines.csv. The row is skipped.
+The 9th row in machine_hours.csv: machine instance CLFTEA16 is not included in machines.csv. The row is skipped.
+The 15th row in machine_hours.csv: machine instance CLFTEA21 is not included in machines.csv. The row is skipped.
+The 22th row in machine_hours.csv: machine instance CLFTEA28 is not included in machines.csv. The row is skipped.
+The 52th row in machine_hours.csv: machine instance CLFTEA55 is not included in machines.csv. The row is skipped.
+The 79th row in machine_hours.csv: machine instance CLFTEA8 is not included in machines.csv. The row is skipped.
+The 82th row in machine_hours.csv: machine instance CLFTEA82 is not included in machines.csv. The row is skipped.
+The 94th row in machine_hours.csv: machine instance CLFTEA93 is not included in machines.csv. The row is skipped.
+The 95th row in machine_hours.csv: machine instance CLFTEA94 is not included in machines.csv. The row is skipped.
+In initialsetup.csv machine CLFTEA83has initial tooling setups.But there is no initial lots in wip.csv on the machine.The machine is taken as a machine with initial setup but without initial lot.
+In initialsetup.csv, MachineCLFTEA41's initial setup: the combination of tooling family(6493741B)and temperatue(1)is not found in route.csv. This machine would be taken as no initial setup
+There is no initial lot on the machine CLFTEA41.So no lot skipped.
